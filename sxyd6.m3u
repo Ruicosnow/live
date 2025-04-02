@@ -354,25 +354,3 @@ http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226166/1.m3u8
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225736/1.m3u8
 #EXTINF:-1,tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://epg.v1.mk/logo/哈哈炫动.png" group-title="动画",哈哈炫动
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226010/1.m3u8
-#EXTINF:-1,tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://epg.v1.mk/logo/黑莓电影.png" group-title="影视",黑莓电影
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225775/1.m3u8
-#EXTINF:-1,tvg-id="IPTV经典电影1" tvg-name="IPTV经典电影1" tvg-logo="https://epg.v1.mk/logo/IPTV经典电影1.png" group-title="影视",电影1
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226003/1.m3u8
-#EXTINF:-1,tvg-id="CCTV-8电视剧" tvg-name="CCTV-8电视剧" tvg-logo="https://epg.v1.mk/logo/CCTV-8电视剧.png" group-title="影视",电视剧1
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226238/1.m3u8
-#EXTINF:-1,tvg-id="CCTV-8电视剧" tvg-name="CCTV-8电视剧" tvg-logo="https://epg.v1.mk/logo/CCTV-8电视剧.png" group-title="影视",电视剧2
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226241/1.m3u8
-#EXTINF:-1,tvg-id="CCTV-8电视剧" tvg-name="CCTV-8电视剧" tvg-logo="https://epg.v1.mk/logo/CCTV-8电视剧.png" group-title="影视",电视剧3
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226000/1.m3u8
-#EXTINF:-1,tvg-id="运城1" tvg-name="运城1" tvg-logo="https://epg.v1.mk/logo/运城1.png" group-title="山西",运城-1
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225988/1.m3u8
-#EXTINF:-1,tvg-id="运城2" tvg-name="运城2" tvg-logo="https://epg.v1.mk/logo/运城2.png" group-title="山西",运城-2
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225985/1.m3u8
-#EXTINF:-1,tvg-id="运城盐湖频道" tvg-name="运城盐湖频道" tvg-logo="https://epg.v1.mk/logo/运城盐湖频道.png" group-title="山西",盐湖频道
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226044/1.m3u8
-#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="山西",霍州
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225952/1.m3u8
-#EXTINF:-1,tvg-id="潞城电视台" tvg-name="潞城电视台" tvg-logo="https://epg.v1.mk/logo/潞城电视台.png" group-title="山西",潞州
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225964/1.m3u8
-#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="山西",稷山
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226196/1.m3u8
