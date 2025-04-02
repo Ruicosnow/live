@@ -326,18 +326,6 @@ http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226055/1.m3u8
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226046/1.m3u8
 #EXTINF:-1,tvg-id="中华美食" tvg-name="中华美食" tvg-logo="https://epg.v1.mk/logo/中华美食.png" group-title="数字",中华美食
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225793/1.m3u8
-#EXTINF:-1,tvg-id="cetv1" tvg-name="cetv1" tvg-logo="https://epg.v1.mk/logo/cetv1.png" group-title="教育",CETV1
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225792/1.m3u8
-#EXTINF:-1,tvg-id="cetv1" tvg-name="cetv1" tvg-logo="https://epg.v1.mk/logo/cetv1.png" group-title="教育",CETV1
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226139/1.m3u8
-#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.v1.mk/logo/CETV2.png" group-title="教育",CETV2
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225813/1.m3u8
-#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.v1.mk/logo/CETV2.png" group-title="教育",CETV2
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225960/1.m3u8
-#EXTINF:-1,tvg-id="cetv4" tvg-name="cetv4" tvg-logo="https://epg.v1.mk/logo/cetv4.png" group-title="教育",CETV4
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226142/1.m3u8
-#EXTINF:-1,tvg-id="cetv4" tvg-name="cetv4" tvg-logo="https://epg.v1.mk/logo/cetv4.png" group-title="教育",CETV4
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 #EXTINF:-1,tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://epg.v1.mk/logo/黑莓动画.png" group-title="动画",黑莓动画
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225772/1.m3u8
 #EXTINF:-1,tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://epg.v1.mk/logo/嘉佳卡通.png" group-title="动画",嘉佳卡通
