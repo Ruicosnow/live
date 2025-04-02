@@ -92,6 +92,8 @@ http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226026/1.m3u8
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226211/1.m3u8
 #EXTINF:-1,tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://epg.v1.mk/logo/CGTN俄语.png" group-title="央视",CGTN俄罗斯语
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226214/1.m3u8
+#EXTINF:-1,tvg-id="祁县新闻" tvg-name="祁县新闻" tvg-logo="https://epg.v1.mk/logo/祁县新闻.png" group-title="央视",祁县新闻
+http://ggpagerl.live.sxmty.com/live/hls/b350dc1ac5da45c2b2233f6eb122ddf4/49d3766c7f204685a2a8f027b234c33d.m3u8?zshanxd
 #EXTINF:-1,tvg-id="cgtn纪录" tvg-name="cgtn纪录" tvg-logo="https://epg.v1.mk/logo/cgtn纪录.png" group-title="央视",CGTN纪录
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225777/1.m3u8
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="卫视",北京卫视
