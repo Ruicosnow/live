@@ -96,3 +96,59 @@ http://39.134.65.106/PLTV/88888888/224/3221225584/1.m3u8?$HLJYDIP 2M SD
 http://39.134.65.106/PLTV/88888888/224/3221225573/1.m3u8?$HLJYDIP 2M SD
 #EXTINF:-1,tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://epg.v1.mk/logo/兵团卫视.png" group-title="卫视",兵团卫视
 http://39.134.65.106/PLTV/88888888/224/3221226005/1.m3u8?$HLJYDIP 2M SD
+#EXTINF:-1,tvg-id="精品大剧" tvg-name="精品大剧" tvg-logo="https://epg.v1.mk/logo/精品大剧.png" group-title="数字",精品大剧
+http://39.134.65.106/PLTV/88888888/224/3221225536/1.m3u8?$HLJYDIP 4M FHD
+#EXTINF:-1,tvg-id="金牌综艺" tvg-name="金牌综艺" tvg-logo="https://epg.v1.mk/logo/金牌综艺.png" group-title="数字",金牌综艺
+http://39.134.65.106/PLTV/88888888/224/3221225525/1.m3u8?$HLJYDIP 4M FHD
+#EXTINF:-1,tvg-id="军事评论" tvg-name="军事评论" tvg-logo="https://epg.v1.mk/logo/军事评论.png" group-title="数字",军事评论
+http://39.134.65.106/PLTV/88888888/224/3221225535/1.m3u8?$HLJYDIP 4M FHD
+#EXTINF:-1,tvg-id="超级电视剧" tvg-name="超级电视剧" tvg-logo="https://epg.v1.mk/logo/超级电视剧.png" group-title="数字",超级电视剧
+http://39.134.65.106/PLTV/88888888/224/3221225637/1.m3u8?$HLJYDIP 4M FHD
+#EXTINF:-1,tvg-id="武搏世界" tvg-name="武搏世界" tvg-logo="https://epg.v1.mk/logo/武搏世界.png" group-title="数字",武搏世界
+http://39.134.65.106/PLTV/88888888/224/3221225547/1.m3u8?$HLJYDIP 4M FHD
+#EXTINF:-1,tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://epg.v1.mk/logo/求索纪录.png" group-title="数字",求索纪录
+http://39.134.65.106/PLTV/88888888/224/3221225713/1.m3u8?$HLJYDIP 8M FHD
+#EXTINF:-1,tvg-id="惊悚悬疑" tvg-name="惊悚悬疑" tvg-logo="https://epg.v1.mk/logo/惊悚悬疑.png" group-title="数字",惊悚悬疑
+http://39.134.65.106/PLTV/88888888/224/3221225553/1.m3u8?$HLJYDIP 4M FHD
+#EXTINF:-1,tvg-id="精品纪录" tvg-name="精品纪录" tvg-logo="https://epg.v1.mk/logo/精品纪录.png" group-title="数字",精品纪录
+http://39.134.65.106/PLTV/88888888/224/3221225545/1.m3u8?$HLJYDIP 4M FHD
+#EXTINF:-1,tvg-id="明星大片" tvg-name="明星大片" tvg-logo="https://epg.v1.mk/logo/明星大片.png" group-title="数字",明星大片
+http://39.134.65.106/PLTV/88888888/224/3221225550/1.m3u8?$HLJYDIP 4M FHD
+#EXTINF:-1,tvg-id="家庭剧场" tvg-name="家庭剧场" tvg-logo="https://epg.v1.mk/logo/家庭剧场.png" group-title="数字",家庭剧场
+http://39.134.65.106/PLTV/88888888/224/3221225553/1.m3u8?$HLJYDIP 4M FHD
+#EXTINF:-1,tvg-id="求索科学" tvg-name="求索科学" tvg-logo="https://epg.v1.mk/logo/求索科学.png" group-title="数字",求索科学
+http://39.134.65.106/PLTV/88888888/224/3221225728/1.m3u8?$HLJYDIP 8M FHD
+#EXTINF:-1,tvg-id="古装剧场" tvg-name="古装剧场" tvg-logo="https://epg.v1.mk/logo/古装剧场.png" group-title="数字",古装剧场
+http://39.134.65.106/PLTV/88888888/224/3221225524/1.m3u8?$HLJYDIP 4M FHD
+#EXTINF:-1,tvg-id="军旅剧场" tvg-name="军旅剧场" tvg-logo="https://epg.v1.mk/logo/军旅剧场.png" group-title="数字",军旅剧场
+http://39.134.65.106/PLTV/88888888/224/3221225560/1.m3u8?$HLJYDIP 4M FHD
+#EXTINF:-1,tvg-id="怡伴健康" tvg-name="怡伴健康" tvg-logo="https://epg.v1.mk/logo/怡伴健康.png" group-title="数字",怡伴健康
+http://39.134.65.106/PLTV/88888888/224/3221225571/1.m3u8?$HLJYDIP 4M FHD
+#EXTINF:-1,tvg-id="爱情喜剧" tvg-name="爱情喜剧" tvg-logo="https://epg.v1.mk/logo/爱情喜剧.png" group-title="数字",爱情喜剧
+http://39.134.65.106/PLTV/88888888/224/3221225533/1.m3u8?$HLJYDIP 4M FHD
+#EXTINF:-1,tvg-id="精品体育" tvg-name="精品体育" tvg-logo="https://epg.v1.mk/logo/精品体育.png" group-title="数字",精品体育
+http://39.134.65.106/PLTV/88888888/224/3221225526/1.m3u8?$HLJYDIP 4M FHD
+#EXTINF:-1,tvg-id="精品萌宠" tvg-name="精品萌宠" tvg-logo="https://epg.v1.mk/logo/精品萌宠.png" group-title="数字",精品萌宠
+http://39.134.65.106/PLTV/88888888/224/3221226051/1.m3u8?$HLJYDIP 4M FHD
+#EXTINF:-1,tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://epg.v1.mk/logo/求索动物.png" group-title="数字",求索动物
+http://39.134.65.106/PLTV/88888888/224/3221225730/1.m3u8?$HLJYDIP 8M FHD
+#EXTINF:-1,tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://epg.v1.mk/logo/求索生活.png" group-title="数字",求索生活
+http://39.134.65.106/PLTV/88888888/224/3221225715/1.m3u8?$HLJYDIP 8M FHD
+#EXTINF:-1,tvg-id="超级电影" tvg-name="超级电影" tvg-logo="https://epg.v1.mk/logo/超级电影.png" group-title="数字",超级电影
+http://39.134.65.106/PLTV/88888888/224/3221225644/1.m3u8?$HLJYDIP 4M FHD
+#EXTINF:-1,tvg-id="超级体育" tvg-name="超级体育" tvg-logo="https://epg.v1.mk/logo/超级体育.png" group-title="数字",超级体育
+http://39.134.65.106/PLTV/88888888/224/3221225635/1.m3u8?$HLJYDIP 4M FHD
+#EXTINF:-1,tvg-id="动作电影" tvg-name="动作电影" tvg-logo="https://epg.v1.mk/logo/动作电影.png" group-title="数字",动作电影
+http://39.134.65.106/PLTV/88888888/224/3221225555/1.m3u8?$HLJYDIP 4M FHD
+#EXTINF:-1,tvg-id="农业致富" tvg-name="农业致富" tvg-logo="https://epg.v1.mk/logo/农业致富.png" group-title="数字",农业致富
+http://39.134.65.106/PLTV/88888888/224/3221225552/1.m3u8?$HLJYDIP 4M FHD
+#EXTINF:-1,tvg-id="海外剧场" tvg-name="海外剧场" tvg-logo="https://epg.v1.mk/logo/海外剧场.png" group-title="数字",海外剧场
+http://39.134.65.106/PLTV/88888888/224/3221225521/1.m3u8?$HLJYDIP 4M FHD
+#EXTINF:-1,tvg-id="中国功夫" tvg-name="中国功夫" tvg-logo="https://epg.v1.mk/logo/中国功夫.png" group-title="数字",中国功夫
+http://39.134.65.106/PLTV/88888888/224/3221225604/1.m3u8?$HLJYDIP 4M FHD
+#EXTINF:-1,tvg-id="欢乐剧场" tvg-name="欢乐剧场" tvg-logo="https://epg.v1.mk/logo/欢乐剧场.png" group-title="数字",欢乐剧场
+http://39.134.65.106/PLTV/88888888/224/3221225682/1.m3u8?$HLJYDIP 4M FHD
+#EXTINF:-1,tvg-id="东北热剧" tvg-name="东北热剧" tvg-logo="https://epg.v1.mk/logo/东北热剧.png" group-title="数字",东北热剧
+http://39.134.65.106/PLTV/88888888/224/3221225679/1.m3u8?$HLJYDIP 4M FHD
+#EXTINF:-1,tvg-id="潮妈辣婆" tvg-name="潮妈辣婆" tvg-logo="https://epg.v1.mk/logo/潮妈辣婆.png" group-title="数字",潮妈辣婆
+http://39.134.65.106/PLTV/88888888/224/3221225542/1.m3u8?$HLJYDIP 4M FHD
