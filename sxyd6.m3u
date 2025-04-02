@@ -94,26 +94,6 @@ http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226211/1.m3u8
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226214/1.m3u8
 #EXTINF:-1,tvg-id="cgtn纪录" tvg-name="cgtn纪录" tvg-logo="https://epg.v1.mk/logo/cgtn纪录.png" group-title="央视",CGTN纪录
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225777/1.m3u8
-#EXTINF:-1,tvg-id="cctv第一剧场" tvg-name="cctv第一剧场" tvg-logo="https://epg.v1.mk/logo/cctv第一剧场.png" group-title="央视",cctv第一剧场
-http://114.217.158.248:4000/rtp/239.49.8.94:8000?
-#EXTINF:-1,tvg-id="cctv风云剧场" tvg-name="cctv风云剧场" tvg-logo="https://epg.v1.mk/logo/cctv风云剧场.png" group-title="央视",cctv风云剧场
-http://114.217.158.248:4000/rtp/239.49.8.89:8000?
-#EXTINF:-1,tvg-id="cctv怀旧剧场" tvg-name="cctv怀旧剧场" tvg-logo="https://epg.v1.mk/logo/cctv怀旧剧场.png" group-title="央视",cctv怀旧剧场
-http://114.217.158.248:4000/rtp/239.49.8.91:8000?
-#EXTINF:-1,tvg-id="cctv风云音乐" tvg-name="cctv风云音乐" tvg-logo="https://epg.v1.mk/logo/cctv风云音乐.png" group-title="央视",cctv风云音乐
-http://114.217.158.248:4000/rtp/239.49.8.92:8000?
-#EXTINF:-1,tvg-id="cctv女性时尚" tvg-name="cctv女性时尚" tvg-logo="https://epg.v1.mk/logo/cctv女性时尚.png" group-title="央视",cctv女性时尚
-http://114.217.158.248:4000/rtp/239.49.8.93:8000?
-#EXTINF:-1,tvg-id="cctv世界地理" tvg-name="cctv世界地理" tvg-logo="https://epg.v1.mk/logo/cctv世界地理.png" group-title="央视",cctv世界地理
-http://114.217.158.248:4000/rtp/239.49.8.87:8000?
-#EXTINF:-1,tvg-id="cctv电视指南" tvg-name="cctv电视指南" tvg-logo="https://epg.v1.mk/logo/cctv电视指南.png" group-title="央视",cctv电视指南
-http://114.217.158.248:4000/rtp/239.49.8.84:8000?
-#EXTINF:-1,tvg-id="cctv风云足球" tvg-name="cctv风云足球" tvg-logo="https://epg.v1.mk/logo/cctv风云足球.png" group-title="央视",cctv风云足球
-http://114.217.158.248:4000/rtp/239.49.8.85:8000?
-#EXTINF:-1,tvg-id="cctv高尔夫·网球" tvg-name="cctv高尔夫·网球" tvg-logo="https://epg.v1.mk/logo/cctv高尔夫·网球.png" group-title="央视",cctv高尔夫·网球
-http://114.217.158.248:4000/rtp/239.49.8.86:8000?
-#EXTINF:-1,tvg-id="cctv兵器科技" tvg-name="cctv兵器科技" tvg-logo="https://epg.v1.mk/logo/cctv兵器科技.png" group-title="央视",cctv兵器科技
-http://114.217.158.248:4000/rtp/239.49.8.88:8000?
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="卫视",北京卫视
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225856/1.m3u8
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="卫视",北京卫视
