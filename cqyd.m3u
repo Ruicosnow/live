@@ -48,7 +48,7 @@ http://39.134.2.22:6610/000000001666/1000000006000280003/1.m3u8?channel-id=ysten
 http://39.134.2.22:6610/000000001666/1000000006000280004/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280004&livemode=1&
 #EXTINF:-1,tvg-id="4K电影" tvg-name="4K电影" tvg-logo="https://epg.v1.mk/logo/4K电影.png" group-title="央视",4K电影
 http://39.134.2.22:6610/000000001666/6000000003000004748/1.m3u8?channel-id=ystenlive&Contentid=6000000003000004748&livemode=1&
-#EXTINF:-1,tvg-id="4K优享" tvg-name="4K优享" tvg-logo="https://epg.v1.mk/logo/4K优享.png" group-title="央视",4K优享
+#EXTINF:-1,tvg-id="4KUHD" tvg-name="4KUHD" tvg-logo="https://epg.v1.mk/logo/4KUHD.png" group-title="央视",4KUHD
 http://39.134.2.22:6610/000000001666/100000000100111083/1.m3u8?channel-id=ystenlive&Contentid=100000000100111083&livemode=1&
 #EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.v1.mk/logo/重庆卫视.png" group-title="卫视",重庆卫视
 http://39.134.2.22:6610/000000001666/100000000100111017/1.m3u8?channel-id=ystenlive&Contentid=100000000100111017&livemode=1&
