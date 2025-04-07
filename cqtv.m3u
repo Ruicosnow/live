@@ -106,8 +106,3 @@ http://39.134.2.22:6610/000000001777/400000000100111053/1.m3u8?IASHttpSessionId=
 http://39.134.2.22:6610/000000001777/400000000100111054/1.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg.v1.mk/logo/西藏卫视.png" group-title="卫视",西藏卫视
 http://39.134.2.22:6610/000000001777/400000000100111055/1.m3u8?IASHttpSessionId=OTT
-
-#EXTINF:-1,tvg-id="东北热剧" tvg-name="东北热剧" tvg-logo="https://epg.v1.mk/logo/东北热剧.png" group-title="数字",东北热剧
-http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225741/.m3u8
-#EXTINF:-1,tvg-id="潮妈辣婆" tvg-name="潮妈辣婆" tvg-logo="https://epg.v1.mk/logo/潮妈辣婆.png" group-title="数字",潮妈辣婆
-http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225685/.m3u8
