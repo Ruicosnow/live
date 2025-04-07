@@ -57,7 +57,7 @@ http://39.134.2.22:6610/000000001777/400000000100111026/1.m3u8?IASHttpSessionId=
 #EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="卫视",山东卫视
 http://39.134.2.22:6610/000000001777/400000000100111031/1.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.v1.mk/logo/河北卫视.png" group-title="卫视",河北卫视
-http://39.134.2.22:6610/000000001666/400000000100111031/1.m3u8?IASHttpSessionId=OTT
+http://39.134.65.106/PLTV/88888888/224/3221225961/1.m3u8?$HLJYDIP 8M FHD
 #EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.v1.mk/logo/天津卫视.png" group-title="卫视",天津卫视
 http://39.134.2.22:6610/000000001777/400000000100111032/1.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
