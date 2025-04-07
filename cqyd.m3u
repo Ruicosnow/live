@@ -1,0 +1,131 @@
+#EXTM3U url-tvg="https://epg.v1.mk/fy.xml,https://epg.v1.mk/fy.xml.gz,https://live.fanmingming.cn/e.xml,http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV1
+http://39.134.2.22:6610/000000001666/100000000100111211/1.m3u8?channel-id=ystenlive&Contentid=100000000100111211&livemode=1&
+#EXTINF:-1,tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="央视",CCTV2
+http://39.134.2.22:6610/000000001666/100000000100111001/1.m3u8?channel-id=ystenlive&Contentid=100000000100111001&livemode=1&
+#EXTINF:-1,tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="央视",CCTV3
+http://39.134.2.22:6610/000000001777/400000000100111057/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="央视",CCTV4
+http://39.134.2.22:6610/000000001666/100000000100111003/1.m3u8?channel-id=ystenlive&Contentid=100000000100111003&livemode=1&
+#EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="央视",CCTV5
+http://39.134.2.22:6610/000000001666/100000000100111004/1.m3u8?channel-id=ystenlive&Contentid=100000000100111004&livemode=1&
+#EXTINF:-1,tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="央视",CCTV5+
+http://39.134.2.22:6610/000000001666/100000000100111005/1.m3u8?channel-id=ystenlive&Contentid=100000000100111005&livemode=1&
+#EXTINF:-1,tvg-id="cctv6" tvg-name="cctv6" tvg-logo="https://epg.v1.mk/logo/cctv6.png" group-title="央视",CCTV6
+http://39.134.2.22:6610/000000001777/400000000100111059/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="央视",CCTV7
+http://39.134.2.22:6610/000000001666/100000000100111007/1.m3u8?channel-id=ystenlive&Contentid=100000000100111007&livemode=1&
+#EXTINF:-1,tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="央视",CCTV8
+http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226008/.m3u8
+#EXTINF:-1,tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="央视",CCTV9
+http://39.134.2.22:6610/000000001666/100000000100111009/1.m3u8?channel-id=ystenlive&Contentid=100000000100111009&livemode=1&
+#EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="央视",CCTV10
+http://39.134.2.22:6610/000000001666/100000000100111010/1.m3u8?channel-id=ystenlive&Contentid=100000000100111010&livemode=1&
+#EXTINF:-1,tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="央视",CCTV11
+http://39.134.2.22:6610/000000001666/100000000100111011/1.m3u8?channel-id=ystenlive&Contentid=100000000100111011&livemode=1&
+#EXTINF:-1,tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="央视",CCTV12
+http://39.134.2.22:6610/000000001666/100000000100111012/1.m3u8?channel-id=ystenlive&Contentid=100000000100111012&livemode=1&
+#EXTINF:-1,tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="央视",CCTV13
+http://39.134.2.22:6610/000000001666/100000000100111013/1.m3u8?channel-id=ystenlive&Contentid=100000000100111013&livemode=1&
+#EXTINF:-1,tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="央视",CCTV14
+http://39.134.2.22:6610/000000001666/100000000100111014/1.m3u8?channel-id=ystenlive&Contentid=100000000100111014&livemode=1&
+#EXTINF:-1,tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="央视",CCTV15
+http://39.134.2.22:6610/000000001666/100000000100111015/1.m3u8?channel-id=ystenlive&Contentid=100000000100111015&livemode=1&
+#EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="央视",CCTV16
+http://39.134.2.22:6610/000000001666/100000000100111091/1.m3u8?channel-id=ystenlive&Contentid=100000000100111091&livemode=1&
+#EXTINF:-1,tvg-id="cctv16-4K" tvg-name="cctv16-4K" tvg-logo="https://epg.v1.mk/logo/cctv16-4K.png" group-title="央视",cctv16-4K
+http://39.134.2.22:6610/000000001666/100000000100111092/1.m3u8?channel-id=ystenlive&Contentid=100000000100111092&livemode=1&
+#EXTINF:-1,tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="央视",CCTV17
+http://39.134.2.22:6610/000000001666/100000000100111016/1.m3u8?channel-id=ystenlive&Contentid=100000000100111016&livemode=1&
+#EXTINF:-1,tvg-id="cgtn阿拉伯语" tvg-name="cgtn阿拉伯语" tvg-logo="https://epg.v1.mk/logo/cgtn阿拉伯语.png" group-title="央视",cgtn阿拉伯语
+http://39.134.2.22:6610/000000001666/1000000006000280001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280001&livemode=1&
+#EXTINF:-1,tvg-id="cgtn西班牙语" tvg-name="cgtn西班牙语" tvg-logo="https://epg.v1.mk/logo/cgtn西班牙语.png" group-title="央视",cgtn西班牙语
+http://39.134.2.22:6610/000000001666/1000000006000280002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280002&livemode=1&
+#EXTINF:-1,tvg-id="cgtn法语" tvg-name="cgtn法语" tvg-logo="https://epg.v1.mk/logo/cgtn法语.png" group-title="央视",cgtn法语
+http://39.134.2.22:6610/000000001666/1000000006000280003/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280003&livemode=1&
+#EXTINF:-1,tvg-id="cgtn俄语" tvg-name="cgtn俄语" tvg-logo="https://epg.v1.mk/logo/cgtn俄语.png" group-title="央视",cgtn俄语
+http://39.134.2.22:6610/000000001666/1000000006000280004/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280004&livemode=1&
+#EXTINF:-1,tvg-id="4K电影" tvg-name="4K电影" tvg-logo="https://epg.v1.mk/logo/4K电影.png" group-title="央视",4K电影
+http://39.134.2.22:6610/000000001666/6000000003000004748/1.m3u8?channel-id=ystenlive&Contentid=6000000003000004748&livemode=1&
+#EXTINF:-1,tvg-id="4K优享" tvg-name="4K优享" tvg-logo="https://epg.v1.mk/logo/4K优享.png" group-title="央视",4K优享
+http://39.134.2.22:6610/000000001666/100000000100111083/1.m3u8?channel-id=ystenlive&Contentid=100000000100111083&livemode=1&
+#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.v1.mk/logo/重庆卫视.png" group-title="卫视",重庆卫视
+http://39.134.2.22:6610/000000001666/100000000100111017/1.m3u8?channel-id=ystenlive&Contentid=100000000100111017&livemode=1&
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="卫视",北京卫视
+http://39.134.2.22:6610/000000001666/100000000100111018/1.m3u8?channel-id=ystenlive&Contentid=100000000100111018&livemode=1&
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="卫视",广东卫视
+http://39.134.2.22:6610/000000001666/100000000100111019/1.m3u8?channel-id=ystenlive&Contentid=100000000100111019&livemode=1&
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="卫视",浙江卫视
+http://39.134.2.22:6610/000000001666/100000000100111020/1.m3u8?channel-id=ystenlive&Contentid=100000000100111020&livemode=1&
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="卫视",江苏卫视
+http://39.134.2.22:6610/000000001666/100000000100111021/1.m3u8?channel-id=ystenlive&Contentid=100000000100111021&livemode=1&
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="卫视",深圳卫视
+http://39.134.2.22:6610/000000001666/100000000100111022/1.m3u8?channel-id=ystenlive&Contentid=100000000100111022&livemode=1&
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="卫视",湖南卫视
+http://39.134.2.22:6610/000000001666/100000000100111023/1.m3u8?channel-id=ystenlive&Contentid=100000000100111023&livemode=1&
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="卫视",东方卫视
+http://39.134.2.22:6610/000000001666/100000000100111024/1.m3u8?channel-id=ystenlive&Contentid=100000000100111024&livemode=1&
+#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.v1.mk/logo/天津卫视.png" group-title="卫视",天津卫视
+http://39.134.2.22:6610/000000001666/100000000100111025/1.m3u8?channel-id=ystenlive&Contentid=100000000100111025&livemode=1&
+#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.v1.mk/logo/江西卫视.png" group-title="卫视",江西卫视
+http://39.134.2.22:6610/000000001666/100000000100111026/1.m3u8?channel-id=ystenlive&Contentid=100000000100111026&livemode=1&
+#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
+http://39.134.2.22:6610/000000001666/100000000100111027/1.m3u8?channel-id=ystenlive&Contentid=100000000100111027&livemode=1&
+#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.v1.mk/logo/东南卫视.png" group-title="卫视",东南卫视
+http://39.134.2.22:6610/000000001666/100000000100111028/1.m3u8?channel-id=ystenlive&Contentid=100000000100111028&livemode=1&
+#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.v1.mk/logo/四川卫视.png" group-title="卫视",四川卫视
+http://39.134.2.22:6610/000000001666/100000000100111029/1.m3u8?channel-id=ystenlive&Contentid=100000000100111029&livemode=1&
+#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.v1.mk/logo/广西卫视.png" group-title="卫视",广西卫视
+http://39.134.2.22:6610/000000001666/100000000100111030/1.m3u8?channel-id=ystenlive&Contentid=100000000100111030&livemode=1&
+#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.v1.mk/logo/河北卫视.png" group-title="卫视",河北卫视
+http://39.134.2.22:6610/000000001666/100000000100111031/1.m3u8?channel-id=ystenlive&Contentid=100000000100111031&livemode=1&
+#EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://epg.v1.mk/logo/山西卫视.png" group-title="卫视",山西卫视
+http://39.134.2.22:6610/000000001666/100000000100111032/1.m3u8?channel-id=ystenlive&Contentid=100000000100111032&livemode=1&
+#EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.v1.mk/logo/陕西卫视.png" group-title="卫视",陕西卫视
+http://39.134.2.22:6610/000000001666/100000000100111033/1.m3u8?channel-id=ystenlive&Contentid=100000000100111033&livemode=1&
+#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.v1.mk/logo/贵州卫视.png" group-title="卫视",贵州卫视
+http://39.134.2.22:6610/000000001666/100000000100111034/1.m3u8?channel-id=ystenlive&Contentid=100000000100111034&livemode=1&
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png" group-title="卫视",湖北卫视
+http://39.134.2.22:6610/000000001666/100000000100111035/1.m3u8?channel-id=ystenlive&Contentid=100000000100111035&livemode=1&
+#EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://epg.v1.mk/logo/青海卫视.png" group-title="卫视",青海卫视
+http://39.134.2.22:6610/000000001666/100000000100111036/1.m3u8?channel-id=ystenlive&Contentid=100000000100111036&livemode=1&
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="卫视",山东卫视
+http://39.134.2.22:6610/000000001666/100000000100111037/1.m3u8?channel-id=ystenlive&Contentid=100000000100111037&livemode=1&
+#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.v1.mk/logo/安徽卫视.png" group-title="卫视",安徽卫视
+http://39.134.2.22:6610/000000001666/100000000100111038/1.m3u8?channel-id=ystenlive&Contentid=100000000100111038&livemode=1&
+#EXTINF:-1,tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://epg.v1.mk/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
+http://39.134.2.22:6610/000000001666/100000000100111039/1.m3u8?channel-id=ystenlive&Contentid=100000000100111039&livemode=1&
+#EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.v1.mk/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
+http://39.134.2.22:6610/000000001666/100000000100111040/1.m3u8?channel-id=ystenlive&Contentid=100000000100111040&livemode=1&
+#EXTINF:-1,tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+http://39.134.2.22:6610/000000001666/100000000100111041/1.m3u8?channel-id=ystenlive&Contentid=100000000100111041&livemode=1&
+#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.v1.mk/logo/吉林卫视.png" group-title="卫视",吉林卫视
+http://39.134.2.22:6610/000000001666/100000000100111049/1.m3u8?channel-id=ystenlive&Contentid=100000000100111049&livemode=1&
+#EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://epg.v1.mk/logo/新疆卫视.png" group-title="卫视",新疆卫视
+http://39.134.2.22:6610/000000001666/100000000100111050/1.m3u8?channel-id=ystenlive&Contentid=100000000100111050&livemode=1&
+#EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.v1.mk/logo/云南卫视.png" group-title="卫视",云南卫视
+http://39.134.2.22:6610/000000001666/100000000100111051/1.m3u8?channel-id=ystenlive&Contentid=100000000100111051&livemode=1&
+#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.v1.mk/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+http://39.134.2.22:6610/000000001666/100000000100111052/1.m3u8?channel-id=ystenlive&Contentid=100000000100111052&livemode=1&
+#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.v1.mk/logo/海南卫视.png" group-title="卫视",海南卫视
+http://39.134.2.22:6610/000000001666/100000000100111072/1.m3u8?channel-id=ystenlive&Contentid=100000000100111072&livemode=1&
+#EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg.v1.mk/logo/西藏卫视.png" group-title="卫视",西藏卫视
+http://39.134.2.22:6610/000000001666/100000000100111073/1.m3u8?channel-id=ystenlive&Contentid=100000000100111073&livemode=1&
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.v1.mk/logo/河南卫视.png" group-title="卫视",河南卫视
+http://39.134.2.22:6610/000000001666/100000000100111090/1.m3u8?channel-id=ystenlive&Contentid=100000000100111090&livemode=1&
+#EXTINF:-1,tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://epg.v1.mk/logo/大湾区卫视.png" group-title="卫视",大湾区卫视
+http://39.134.2.22:6610/000000001666/1000000002000011619/1.m3u8?channel-id=ystenlive&Contentid=1000000002000011619&livemode=1&
+#EXTINF:-1,tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="https://epg.v1.mk/logo/康巴卫视.png" group-title="卫视",康巴卫视
+http://39.134.2.22:6610/000000001666/1000000005000266002/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266002&livemode=1&
+#EXTINF:-1,tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://epg.v1.mk/logo/兵团卫视.png" group-title="卫视",兵团卫视
+http://39.134.2.22:6610/000000001666/1000000005000266005/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266005&livemode=1&
+#EXTINF:-1,tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://epg.v1.mk/logo/厦门卫视.png" group-title="卫视",厦门卫视
+http://39.134.2.22:6610/000000001666/1000000005000266006/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266006&livemode=1&
+#EXTINF:-1,tvg-id="cetv-1" tvg-name="cetv-1" tvg-logo="https://epg.v1.mk/logo/cetv-1.png" group-title="卫视",cetv-1
+http://39.134.2.22:6610/000000001666/100000000100111043/1.m3u8?channel-id=ystenlive&Contentid=100000000100111043&livemode=1&
+#EXTINF:-1,tvg-id="cetv-2" tvg-name="cetv-2" tvg-logo="https://epg.v1.mk/logo/cetv-2.png" group-title="卫视",cetv-2
+http://39.134.2.22:6610/000000001666/100000000100111100/1.m3u8?channel-id=ystenlive&Contentid=100000000100111100&livemode=1&
+#EXTINF:-1,tvg-id="cetv-4" tvg-name="cetv-4" tvg-logo="https://epg.v1.mk/logo/cetv-4.png" group-title="卫视",cetv-4
+http://39.134.2.22:6610/000000001666/100000000100111042/1.m3u8?channel-id=ystenlive&Contentid=100000000100111042&livemode=1&
+
