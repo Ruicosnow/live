@@ -36,6 +36,30 @@ http://39.134.64.87:6610/PLTV/88888888/224/3221226476/index.m3u8?IASHttpSessionI
 http://39.134.64.87:6610/PLTV/88888888/224/3221226100/index.m3u8?IASHttpSessionId=
 #EXTINF:-1,tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="央视",CCTV17
 http://39.134.64.87:6610/PLTV/88888888/224/3221225765/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/cctv/CCTVbqkj.png" group-title="央视频道",CCTV-兵器科技
+http://www.lizhinas.top:1009/rtp/239.252.219.98:5140
+#EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://live.fanmingming.cn/tv/世界地理.png" group-title="央视",CCTV-世界地理
+http://www.lizhinas.top:1009/rtp/239.252.219.93:5140
+#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.cn/tv/风云足球.png" group-title="央视",CCTV-风云足球
+http://www.lizhinas.top:1009/rtp/239.252.219.96:5140
+#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://live.fanmingming.cn/tv/风云音乐.png" group-title="央视",CCTV-风云音乐
+http://www.lizhinas.top:1009/rtp/239.252.219.87:5140
+#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.cn/tv/风云剧场.png" group-title="央视",CCTV-风云剧场
+http://www.lizhinas.top:1009/rtp/239.252.219.89:5140
+#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://live.fanmingming.cn/tv/第一剧场.png" group-title="央视",CCTV-第一剧场
+http://www.lizhinas.top:1009/rtp/239.252.219.86:5140
+#EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.cn/tv/怀旧剧场.png" group-title="央视",CCTV-怀旧剧场
+http://www.lizhinas.top:1009/rtp/239.252.219.90:5140
+#EXTINF:-1 tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://live.fanmingming.cn/tv/文化精品.png" group-title="央视",CCTV-文化精品
+http://www.lizhinas.top:1009/rtp/239.252.219.81:5140
+#EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://live.fanmingming.cn/tv/女性时尚.png" group-title="央视",CCTV-女性时尚
+http://www.lizhinas.top:1009/rtp/239.252.219.94:5140
+#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.cn/tv/央视台球.png" group-title="央视",CCTV-央视台球
+http://www.lizhinas.top:1009/rtp/239.252.219.80:5140
+#EXTINF:-1 tvg-id="央视高网" tvg-name="高尔夫网球" tvg-logo="https://live.fanmingming.cn/tv/央视高网.png" group-title="央视",CCTV-央视高网
+http://www.lizhinas.top:1009/rtp/239.252.219.95:5140
+#EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/cctv/CCTVdszn.png" group-title="央视",CCTV-电视指南
+http://www.lizhinas.top:1009/rtp/239.252.219.97:5140
 #EXTINF:-1,tvg-id="祁县新闻" tvg-name="祁县新闻" tvg-logo="https://epg.v1.mk/logo/祁县新闻.png" group-title="央视",祁县新闻
 http://ggpagerl.live.sxmty.com/live/hls/b350dc1ac5da45c2b2233f6eb122ddf4/49d3766c7f204685a2a8f027b234c33d.m3u8?zshanxd
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="卫视",北京卫视
