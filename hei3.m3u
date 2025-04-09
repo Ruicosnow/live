@@ -36,7 +36,7 @@ http://39.134.64.87:6610/PLTV/88888888/224/3221226476/index.m3u8?IASHttpSessionI
 http://39.134.64.87:6610/PLTV/88888888/224/3221226100/index.m3u8?IASHttpSessionId=
 #EXTINF:-1,tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="央视",CCTV17
 http://39.134.64.87:6610/PLTV/88888888/224/3221225765/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/cctv/CCTVbqkj.png" group-title="央视频道",CCTV-兵器科技
+#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/cctv/CCTVbqkj.png" group-title="央视",CCTV-兵器科技
 http://www.lizhinas.top:1009/rtp/239.252.219.98:5140
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://live.fanmingming.cn/tv/世界地理.png" group-title="央视",CCTV-世界地理
 http://www.lizhinas.top:1009/rtp/239.252.219.93:5140
