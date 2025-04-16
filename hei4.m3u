@@ -1053,7 +1053,3 @@ http://111.29.9.34:6610/000000001000/2000000003000000018/index.m3u8?livemode=1&s
 http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
 http://39.135.133.157:80/PLTV/88888888/224/3221225571/1.m3u8
 
-#EXTINF:-1 tvg-id="人在囧途" tvg-name="人在囧途" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="数字频道",人在囧途
-http://jsmov2.a.yximgs.com/bs3/video-hls/5239093847755471351_hlsb.m3u8
-#EXTINF:-1 tvg-id="失效频道" tvg-name="失效频道" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="数字频道",失效频道标记x符号
-https://live.kakaxi-1.ink/LOGO/Disclaimer.mp4
