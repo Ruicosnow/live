@@ -92,6 +92,30 @@ http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226026/1.m3u8
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226211/1.m3u8
 #EXTINF:-1,tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://epg.v1.mk/logo/CGTN俄语.png" group-title="央视",CGTN俄罗斯语
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226214/1.m3u8
+#EXTINF:-1,tvg-id="CCTV第一剧场" tvg-name="CCTV第一剧场" tvg-logo="https://epg.v1.mk/logo/CCTV第一剧场.png" group-title="央视数字",CCTV第一剧场
+http://1.82.234.148:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/diyijuchangHD/__op/default/__f/index.m3u8
+#EXTINF:-1,tvg-id="CCTV兵器科技" tvg-name="CCTV兵器科技" tvg-logo="https://epg.v1.mk/logo/CCTV兵器科技.png" group-title="央视数字",CCTV兵器科技
+http://1.82.234.148:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8
+#EXTINF:-1,tvg-id="CCTV风云剧场" tvg-name="CCTV风云剧场" tvg-logo="https://epg.v1.mk/logo/CCTV风云剧场.png" group-title="央视数字",CCTV风云剧场
+http://1.82.234.148:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8
+#EXTINF:-1,tvg-id="CCTV风云音乐" tvg-name="CCTV风云音乐" tvg-logo="https://epg.v1.mk/logo/CCTV风云音乐.png" group-title="央视数字",CCTV风云音乐
+http://1.82.234.148:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/fyyyHD/__op/default/__f/index.m3u8
+#EXTINF:-1,tvg-id="CCTV风云足球" tvg-name="CCTV风云足球" tvg-logo="https://epg.v1.mk/logo/CCTV风云足球.png" group-title="央视数字",CCTV风云足球
+http://1.82.234.148:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8
+#EXTINF:-1,tvg-id="CCTV怀旧剧场" tvg-name="CCTV怀旧剧场" tvg-logo="https://epg.v1.mk/logo/CCTV怀旧剧场.png" group-title="央视数字",CCTV怀旧剧场
+http://1.82.234.148:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8
+#EXTINF:-1,tvg-id="CCTV女性时尚" tvg-name="CCTV女性时尚" tvg-logo="https://epg.v1.mk/logo/CCTV女性时尚.png" group-title="央视数字",CCTV女性时尚
+http://1.82.234.148:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/nvxing/__op/default/__f/index.m3u8
+#EXTINF:-1,tvg-id="CCTV央视台球" tvg-name="CCTV央视台球" tvg-logo="https://epg.v1.mk/logo/CCTV央视台球.png" group-title="央视数字",CCTV央视台球
+http://1.82.234.148:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/ystqHD/__op/default/__f/index.m3u8
+#EXTINF:-1,tvg-id="CCTV高尔夫网球" tvg-name="CCTV高尔夫网球" tvg-logo="https://epg.v1.mk/logo/CCTV高尔夫网球.png" group-title="央视数字",CCTV高尔夫网球
+http://1.82.234.148:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/golfHD/__op/default/__f/index.m3u8
+#EXTINF:-1,tvg-id="CCTV央视文化精品" tvg-name="CCTV央视文化精品" tvg-logo="https://epg.v1.mk/logo/CCTV央视文化精品.png" group-title="央视数字",CCTV央视文化精品
+http://1.82.234.148:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/yswhHD/__op/default/__f/index.m3u8
+#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.v1.mk/logo/CHC动作电影.png" group-title="央视数字",CHC动作电影
+http://1.82.234.148:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
+#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.v1.mk/logo/CHC家庭影院.png" group-title="央视数字",CHC家庭影院
+http://1.82.234.148:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="祁县新闻" tvg-name="祁县新闻" tvg-logo="https://epg.v1.mk/logo/祁县新闻.png" group-title="地方",祁县新闻
 http://ggpagerl.live.sxmty.com/live/hls/b350dc1ac5da45c2b2233f6eb122ddf4/49d3766c7f204685a2a8f027b234c33d.m3u8?zshanxd
 #EXTINF:-1,tvg-id="cgtn纪录" tvg-name="cgtn纪录" tvg-logo="https://epg.v1.mk/logo/cgtn纪录.png" group-title="央视",CGTN纪录
