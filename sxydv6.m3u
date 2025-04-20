@@ -73,11 +73,11 @@ http://1.82.234.113:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/fyzqHD/__op/defau
 #EXTINF:-1,tvg-id="CCTV怀旧剧场" tvg-name="CCTV怀旧剧场" tvg-logo="https://epg.v1.mk/logo/CCTV怀旧剧场.png" group-title="央视数字",CCTV怀旧剧场
 http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000029/index.m3u8?
 #EXTINF:-1,tvg-id="CCTV女性时尚" tvg-name="CCTV女性时尚" tvg-logo="https://epg.v1.mk/logo/CCTV女性时尚.png" group-title="央视数字",CCTV女性时尚
-http://1.82.234.113:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/nvxing/__op/default/__f/index.m3u8
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000040/index.m3u8?
 #EXTINF:-1,tvg-id="CCTV央视台球" tvg-name="CCTV央视台球" tvg-logo="https://epg.v1.mk/logo/CCTV央视台球.png" group-title="央视数字",CCTV央视台球
 http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000212/index.m3u8?
 #EXTINF:-1,tvg-id="CCTV高尔夫网球" tvg-name="CCTV高尔夫网球" tvg-logo="https://epg.v1.mk/logo/CCTV高尔夫网球.png" group-title="央视数字",CCTV高尔夫网球
-http://1.82.234.113:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/golfHD/__op/default/__f/index.m3u8
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000162/index.m3u8?
 #EXTINF:-1,tvg-id="CCTV央视文化精品" tvg-name="CCTV央视文化精品" tvg-logo="https://epg.v1.mk/logo/CCTV央视文化精品.png" group-title="央视数字",CCTV央视文化精品
 http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000030/index.m3u8?
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.v1.mk/logo/CHC动作电影.png" group-title="央视数字",CHC动作电影
@@ -87,19 +87,19 @@ http://1.82.234.113:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chcjtyyHD/__op/de
 #EXTINF:-1,tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://epg.v1.mk/logo/CHC影迷电影.png" group-title="央视数字",CHC影迷电影
 http://1.82.234.113:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.v1.mk/logo/都市剧场.png" group-title="央视数字",都市剧场
-http://1.82.234.113:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/dsjcHD/__op/default/__f/index.m3u8
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000110/index.m3u8?
 #EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.v1.mk/logo/魅力足球.png" group-title="央视数字",魅力足球
-http://1.82.234.113:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/mlzqHD/__op/default/__f/index.m3u8
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000126/index.m3u8?
 #EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.v1.mk/logo/动漫秀场.png" group-title="央视数字",动漫秀场
-http://1.82.234.113:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/dmxcHD/__op/default/__f/index.m3u8
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000120/index.m3u8?
 #EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.v1.mk/logo/游戏风云.png" group-title="央视数字",游戏风云
-http://1.82.234.113:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/yxfyHD/__op/default/__f/index.m3u8
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000121/index.m3u8?
 #EXTINF:-1,tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.v1.mk/logo/生活时尚.png" group-title="央视数字",生活时尚
-http://1.82.234.113:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/shenghuo/__op/default/__f/index.m3u8
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000109/index.m3u8?
 #EXTINF:-1,tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://epg.v1.mk/logo/法治天地.png" group-title="央视数字",法治天地
-http://1.82.234.113:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/fazhi/__op/default/__f/index.m3u8
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000123/index.m3u8?
 #EXTINF:-1,tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://epg.v1.mk/logo/金色学堂.png" group-title="央视数字",金色学堂
-http://1.82.234.113:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/jinse/__op/default/__f/index.m3u8
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000124/index.m3u8?
 #EXTINF:-1,tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://epg.v1.mk/logo/中国天气.png" group-title="央视数字",中国天气
 http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000045/index.m3u8?
 #EXTINF:-1,tvg-id="祁县新闻" tvg-name="祁县新闻" tvg-logo="https://epg.v1.mk/logo/祁县新闻.png" group-title="地方",祁县新闻
@@ -220,81 +220,4 @@ http://[2409:8087:c20:21::2:11]:6610/040000001000/351000010000000600000000000001
 http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000132/index.m3u8?
 #EXTINF:-1,tvg-id="山西黄河" tvg-name="山西黄河" tvg-logo="https://epg.v1.mk/logo/山西黄河.png" group-title="地方",山西黄河
 http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000128/index.m3u8?
-#EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://epg.v1.mk/logo/重温经典.png" group-title="地方",重温经典
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226427/1.m3u8
-#EXTINF:-1,tvg-id="精品大剧" tvg-name="精品大剧" tvg-logo="https://epg.v1.mk/logo/精品大剧.png" group-title="数字",精品大剧
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225766/1.m3u8
-#EXTINF:-1,tvg-id="金牌综艺" tvg-name="金牌综艺" tvg-logo="https://epg.v1.mk/logo/金牌综艺.png" group-title="数字",金牌综艺
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225769/1.m3u8
-#EXTINF:-1,tvg-id="军事评论" tvg-name="军事评论" tvg-logo="https://epg.v1.mk/logo/军事评论.png" group-title="数字",军事评论
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225778/1.m3u8
-#EXTINF:-1,tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://epg.v1.mk/logo/哒啵赛事.png" group-title="数字",哒啵赛事
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225781/1.m3u8
-#EXTINF:-1,tvg-id="武搏世界" tvg-name="武搏世界" tvg-logo="https://epg.v1.mk/logo/武搏世界.png" group-title="数字",武搏世界
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225787/1.m3u8
-#EXTINF:-1,tvg-id="魅力潇湘" tvg-name="魅力潇湘" tvg-logo="https://epg.v1.mk/logo/魅力潇湘.png" group-title="数字",魅力潇湘
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225790/1.m3u8
-#EXTINF:-1,tvg-id="惊悚悬疑" tvg-name="惊悚悬疑" tvg-logo="https://epg.v1.mk/logo/惊悚悬疑.png" group-title="数字",惊悚悬疑
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225796/1.m3u8
-#EXTINF:-1,tvg-id="精品纪录" tvg-name="精品纪录" tvg-logo="https://epg.v1.mk/logo/精品纪录.png" group-title="数字",精品纪录
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225831/1.m3u8
-#EXTINF:-1,tvg-id="明星大片" tvg-name="明星大片" tvg-logo="https://epg.v1.mk/logo/明星大片.png" group-title="数字",明星大片
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225837/1.m3u8
-#EXTINF:-1,tvg-id="家庭剧场" tvg-name="家庭剧场" tvg-logo="https://epg.v1.mk/logo/家庭剧场.png" group-title="数字",家庭剧场
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225834/1.m3u8
-#EXTINF:-1,tvg-id="炫舞未来" tvg-name="炫舞未来" tvg-logo="https://epg.v1.mk/logo/炫舞未来.png" group-title="数字",炫舞未来
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225840/1.m3u8
-#EXTINF:-1,tvg-id="古装剧场" tvg-name="古装剧场" tvg-logo="https://epg.v1.mk/logo/古装剧场.png" group-title="数字",古装剧场
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225843/1.m3u8
-#EXTINF:-1,tvg-id="军旅剧场" tvg-name="军旅剧场" tvg-logo="https://epg.v1.mk/logo/军旅剧场.png" group-title="数字",军旅剧场
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225846/1.m3u8
-#EXTINF:-1,tvg-id="怡伴健康" tvg-name="怡伴健康" tvg-logo="https://epg.v1.mk/logo/怡伴健康.png" group-title="数字",怡伴健康
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225849/1.m3u8
-#EXTINF:-1,tvg-id="爱情喜剧" tvg-name="爱情喜剧" tvg-logo="https://epg.v1.mk/logo/爱情喜剧.png" group-title="数字",爱情喜剧
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225852/1.m3u8
-#EXTINF:-1,tvg-id="精品体育" tvg-name="精品体育" tvg-logo="https://epg.v1.mk/logo/精品体育.png" group-title="数字",精品体育
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225861/1.m3u8
-#EXTINF:-1,tvg-id="精品萌宠" tvg-name="精品萌宠" tvg-logo="https://epg.v1.mk/logo/精品萌宠.png" group-title="数字",精品萌宠
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225912/1.m3u8
-#EXTINF:-1,tvg-id="H睛彩中原" tvg-name="H睛彩中原" tvg-logo="https://epg.v1.mk/logo/H睛彩中原.png" group-title="数字",睛彩青少
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225915/1.m3u8
-#EXTINF:-1,tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://epg.v1.mk/logo/睛彩篮球.png" group-title="数字",睛彩篮球
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225922/1.m3u8
-#EXTINF:-1,tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://epg.v1.mk/logo/睛彩篮球.png" group-title="数字",睛彩篮球
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225811/1.m3u8
-#EXTINF:-1,tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://epg.v1.mk/logo/睛彩竞技.png" group-title="数字",睛彩竞技
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225814/1.m3u8
-#EXTINF:-1,tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://epg.v1.mk/logo/睛彩竞技.png" group-title="数字",睛彩竞技
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225925/1.m3u8
-#EXTINF:-1,tvg-id="动作电影" tvg-name="动作电影" tvg-logo="https://epg.v1.mk/logo/动作电影.png" group-title="数字",动作电影
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226034/1.m3u8
-#EXTINF:-1,tvg-id="农业致富" tvg-name="农业致富" tvg-logo="https://epg.v1.mk/logo/农业致富.png" group-title="数字",农业致富
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226037/1.m3u8
-#EXTINF:-1,tvg-id="海外剧场" tvg-name="海外剧场" tvg-logo="https://epg.v1.mk/logo/海外剧场.png" group-title="数字",海外剧场
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226040/1.m3u8
-#EXTINF:-1,tvg-id="中国功夫" tvg-name="中国功夫" tvg-logo="https://epg.v1.mk/logo/中国功夫.png" group-title="数字",中国功夫
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226043/1.m3u8
-#EXTINF:-1,tvg-id="欢乐剧场" tvg-name="欢乐剧场" tvg-logo="https://epg.v1.mk/logo/欢乐剧场.png" group-title="数字",欢乐剧场
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226052/1.m3u8
-#EXTINF:-1,tvg-id="东北热剧" tvg-name="东北热剧" tvg-logo="https://epg.v1.mk/logo/东北热剧.png" group-title="数字",东北热剧
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226055/1.m3u8
-#EXTINF:-1,tvg-id="潮妈辣婆" tvg-name="潮妈辣婆" tvg-logo="https://epg.v1.mk/logo/潮妈辣婆.png" group-title="数字",潮妈辣婆
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226046/1.m3u8
-#EXTINF:-1,tvg-id="中华美食" tvg-name="中华美食" tvg-logo="https://epg.v1.mk/logo/中华美食.png" group-title="数字",中华美食
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225793/1.m3u8
-#EXTINF:-1,tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://epg.v1.mk/logo/黑莓动画.png" group-title="动画",黑莓动画
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225772/1.m3u8
-#EXTINF:-1,tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://epg.v1.mk/logo/嘉佳卡通.png" group-title="动画",嘉佳卡通
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225819/1.m3u8
-#EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.v1.mk/logo/卡酷少儿.png" group-title="动画",卡酷少儿
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225795/1.m3u8
-#EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.v1.mk/logo/卡酷少儿.png" group-title="动画",卡酷少儿
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225990/1.m3u8
-#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.v1.mk/logo/金鹰卡通.png" group-title="动画",金鹰卡通
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225730/1.m3u8
-#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.v1.mk/logo/金鹰卡通.png" group-title="动画",金鹰卡通
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226166/1.m3u8
-#EXTINF:-1,tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://epg.v1.mk/logo/优漫卡通.png" group-title="动画",优漫卡通
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225736/1.m3u8
-#EXTINF:-1,tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://epg.v1.mk/logo/哈哈炫动.png" group-title="动画",哈哈炫动
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226010/1.m3u8
+
