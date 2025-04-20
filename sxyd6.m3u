@@ -116,6 +116,24 @@ http://1.82.234.113:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/yswhHD/__op/defau
 http://1.82.234.113:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.v1.mk/logo/CHC家庭影院.png" group-title="央视数字",CHC家庭影院
 http://1.82.234.113:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
+#EXTINF:-1,tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://epg.v1.mk/logo/CHC影迷电影.png" group-title="央视数字",CHC影迷电影
+http://1.82.234.113:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
+#EXTINF:-1,tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.v1.mk/logo/都市剧场.png" group-title="央视数字",都市剧场
+http://1.82.234.113:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/dsjcHD/__op/default/__f/index.m3u8
+#EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.v1.mk/logo/魅力足球.png" group-title="央视数字",魅力足球
+http://1.82.234.113:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/mlzqHD/__op/default/__f/index.m3u8
+#EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.v1.mk/logo/动漫秀场.png" group-title="央视数字",动漫秀场
+http://1.82.234.113:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/dmxcHD/__op/default/__f/index.m3u8
+#EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.v1.mk/logo/游戏风云.png" group-title="央视数字",游戏风云
+http://1.82.234.113:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/yxfyHD/__op/default/__f/index.m3u8
+#EXTINF:-1,tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.v1.mk/logo/生活时尚.png" group-title="央视数字",生活时尚
+http://1.82.234.113:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/shenghuo/__op/default/__f/index.m3u8
+#EXTINF:-1,tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://epg.v1.mk/logo/法治天地.png" group-title="央视数字",法治天地
+http://1.82.234.113:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/fazhi/__op/default/__f/index.m3u8
+#EXTINF:-1,tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://epg.v1.mk/logo/金色学堂.png" group-title="央视数字",金色学堂
+http://1.82.234.113:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/jinse/__op/default/__f/index.m3u8
+#EXTINF:-1,tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://epg.v1.mk/logo/中国天气.png" group-title="央视数字",中国天气
+http://1.82.234.113:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/tianqiSD/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="祁县新闻" tvg-name="祁县新闻" tvg-logo="https://epg.v1.mk/logo/祁县新闻.png" group-title="地方",祁县新闻
 http://ggpagerl.live.sxmty.com/live/hls/b350dc1ac5da45c2b2233f6eb122ddf4/49d3766c7f204685a2a8f027b234c33d.m3u8?zshanxd
 #EXTINF:-1,tvg-id="cgtn纪录" tvg-name="cgtn纪录" tvg-logo="https://epg.v1.mk/logo/cgtn纪录.png" group-title="央视",CGTN纪录
