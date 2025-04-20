@@ -15,9 +15,7 @@ http://[2409:8087:c20:21::2:11]:6610/040000001000/351000010000000600000000000000
 #EXTINF:-1,tvg-id="cctv6" tvg-name="cctv6" tvg-logo="https://epg.v1.mk/logo/cctv6.png" group-title="央视",CCTV6
 http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000150/index.m3u8?
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="央视",CCTV7
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226035/1.m3u8
-#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="央视",CCTV7
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225924/1.m3u8
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000008/index.m3u8? 
 #EXTINF:-1,tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="央视",CCTV8
 http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000151/index.m3u8?
 #EXTINF:-1,tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="央视",CCTV9
@@ -25,9 +23,7 @@ http://[2409:8087:c20:21::2:11]:6610/040000001000/351000010000000600000000000000
 #EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="央视",CCTV10
 http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000059/index.m3u8? 
 #EXTINF:-1,tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="央视",CCTV11
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226121/1.m3u8
-#EXTINF:-1,tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="央视",CCTV11
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225703/1.m3u8
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000087/index.m3u8? 
 #EXTINF:-1,tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="央视",CCTV12
 http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000062/index.m3u8?
 #EXTINF:-1,tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="央视",CCTV13
@@ -35,9 +31,7 @@ http://[2409:8087:c20:21::2:11]:6610/040000001000/351000010000000600000000000000
 #EXTINF:-1,tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="央视",CCTV14
 http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000064/index.m3u8?
 #EXTINF:-1,tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="央视",CCTV15
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225971/1.m3u8
-#EXTINF:-1,tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="央视",CCTV15
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225868/1.m3u8
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000085/index.m3u8? 
 #EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="央视",CCTV16
 http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000105/index.m3u8?
 #EXTINF:-1,tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="央视",CCTV17
