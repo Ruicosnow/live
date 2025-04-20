@@ -1,0 +1,710 @@
+#EXTM3U x-tvg-url="https://e.erw.cc/all.xml.gz,https://epg.112114.xyz/pp.xml.gz"
+#EXTINF:-1,tvg-name="CCTV1" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/CN/CCTV1.png" group-title="央视",CCTV1
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226032/index.m3u8
+#EXTINF:-1,tvg-name="CCTV2" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/CN/CCTV2.png" group-title="央视",CCTV2
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226217/index.m3u8
+#EXTINF:-1,tvg-name="CCTV3" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/CN/CCTV3.png" group-title="央视",CCTV3
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225967/index.m3u8
+#EXTINF:-1,tvg-name="CCTV4" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/CN/CCTV4.png" group-title="央视",CCTV4
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225958/index.m3u8
+#EXTINF:-1,tvg-name="CCTV5" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/CN/CCTV5.png" group-title="央视",CCTV5
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225970/index.m3u8
+#EXTINF:-1,tvg-name="CCTV5+" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/CN/CCTV5+.png" group-title="央视",CCTV5+
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226199/index.m3u8
+#EXTINF:-1,tvg-name="CCTV6" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/CN/CCTV6.png" group-title="央视",CCTV6
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225826/index.m3u8
+#EXTINF:-1,tvg-name="CCTV7" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/CN/CCTV7.png" group-title="央视",CCTV7
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226035/index.m3u8
+#EXTINF:-1,tvg-name="CCTV8" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/CN/CCTV8.png" group-title="央视",CCTV8
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225976/index.m3u8
+#EXTINF:-1,tvg-name="CCTV9" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/CN/CCTV9.png" group-title="央视",CCTV9
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225961/index.m3u8
+#EXTINF:-1,tvg-name="CCTV10" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/CN/CCTV10.png" group-title="央视",CCTV10
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226220/index.m3u8
+#EXTINF:-1,tvg-name="CCTV11" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/CN/CCTV11.png" group-title="央视",CCTV11
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225703/index.m3u8
+#EXTINF:-1,tvg-name="CCTV12" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/CN/CCTV12.png" group-title="央视",CCTV12
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225942/index.m3u8
+#EXTINF:-1,tvg-name="CCTV13" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/CN/CCTV13.png" group-title="央视",CCTV13
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226041/index.m3u8
+#EXTINF:-1,tvg-name="CCTV14" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/CN/CCTV14.png" group-title="央视",CCTV14
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226130/index.m3u8
+#EXTINF:-1,tvg-name="CCTV15" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/CN/CCTV15.png" group-title="央视",CCTV15
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225971/index.m3u8
+#EXTINF:-1,tvg-name="CCTV16" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/CN/CCTV16.png" group-title="央视",CCTV16
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225871/index.m3u8
+#EXTINF:-1,tvg-name="CCTV17" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/CN/CCTV17.png" group-title="央视",CCTV17
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225877/index.m3u8
+#EXTINF:-1,tvg-name="CCTV4K" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/CN/CCTV4K.png" group-title="央视",CCTV4K
+#EXTINF:-1,tvg-name="CCTV8K" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/CN/CCTV8K.png" group-title="央视",CCTV8K
+#EXTINF:-1,tvg-name="CCTV16" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/CN/CCTV16.png" group-title="央视",CCTV16•4K
+
+#EXTINF:-1,tvg-name="CCTV4K" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/CN/CCTV4K.png" group-title="央视",CCTV4K
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000189/index.m3u8?
+#EXTINF:-1,tvg-name="第一剧场" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/CN/CCTV第一剧场.png" group-title="央视",第一剧场
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000022/index.m3u8?
+#EXTINF:-1,tvg-name="怀旧剧场" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/CN/CCTV怀旧剧场.png" group-title="央视",怀旧剧场
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000029/index.m3u8?
+#EXTINF:-1,tvg-name="风云剧场" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/CN/CCTV风云剧场.png" group-title="央视",风云剧场
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000023/index.m3u8?
+#EXTINF:-1,tvg-name="风云足球" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/CN/CCTV风云足球.png" group-title="央视",风云足球
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000027/index.m3u8?
+#EXTINF:-1,tvg-name="风云音乐" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/CN/CCTV风云音乐.png" group-title="央视",风云音乐
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000024/index.m3u8?
+#EXTINF:-1,tvg-name="世界地理" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/CN/CCTV世界地理.png" group-title="央视",世界地理
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000161/index.m3u8?
+#EXTINF:-1,tvg-name="兵器科技" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/CN/CCTV兵器科技.png" group-title="央视",兵器科技
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000026/index.m3u8?
+#EXTINF:-1,tvg-name="电视指南" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/CN/CCTV电视指南.png" group-title="央视",电视指南
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000032/index.m3u8?
+#EXTINF:-1,tvg-name="央视文化精品" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/CN/CCTV文化精品.png" group-title="央视",央视文化精品
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000030/index.m3u8?
+#EXTINF:-1,tvg-name="女性时尚" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/CN/CCTV女性时尚.png" group-title="央视",女性时尚
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000040/index.m3u8?
+#EXTINF:-1,tvg-name="央视台球" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/CN/CCTV台球.png" group-title="央视",央视台球
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000212/index.m3u8?
+#EXTINF:-1,tvg-name="高尔夫网球" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/CN/CCTV高尔夫网球.png" group-title="央视",高尔夫网球
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000162/index.m3u8?
+#EXTINF:-1,tvg-name="发现之旅" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/CN/中央新影.png" group-title="央视",发现之旅
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000217/index.m3u8?
+#EXTINF:-1,tvg-name="老故事" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/CN/中央新影.png" group-title="央视",老故事
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000039/index.m3u8?
+#EXTINF:-1,tvg-name="中学生" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/CN/中央新影.png" group-title="央视",中学生
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000060/index.m3u8?
+#EXTINF:-1,tvg-name="山西卫视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/卫视/山西卫视.png" group-title="卫视",山西卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226150/index.m3u8
+#EXTINF:-1,tvg-name="黄河卫视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/卫视/黄河卫视.png" group-title="卫视",黄河卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226343/index.m3u8
+#EXTINF:-1,tvg-name="山西影视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/山西/山西影视.png" group-title="卫视",山西影视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226340/index.m3u8
+#EXTINF:-1,tvg-name="山西文体生活" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/山西/山西文体生活.png" group-title="卫视",山西文体生活
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226161/index.m3u8
+#EXTINF:-1,tvg-name="山西经济与科技" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/山西/山西经济与科技.png" group-title="卫视",山西经济与科技
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226147/index.m3u8
+#EXTINF:-1,tvg-name="山西社会与法治" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/山西/山西社会与法治.png" group-title="卫视",山西社会与法治
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226337/index.m3u8
+#EXTINF:-1,tvg-name="北京卫视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/卫视/北京卫视.png" group-title="卫视",北京卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225856/index.m3u8
+#EXTINF:-1,tvg-name="天津卫视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/卫视/天津卫视.png" group-title="卫视",天津卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226002/index.m3u8
+#EXTINF:-1,tvg-name="河北卫视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/卫视/河北卫视.png" group-title="卫视",河北卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225901/index.m3u8
+#EXTINF:-1,tvg-name="河南卫视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/卫视/河南卫视.png" group-title="卫视",河南卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226160/index.m3u8
+#EXTINF:-1,tvg-name="山东卫视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/卫视/山东卫视.png" group-title="卫视",山东卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225931/index.m3u8
+#EXTINF:-1,tvg-name="陕西卫视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/卫视/陕西卫视.png" group-title="卫视",陕西卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225807/index.m3u8
+#EXTINF:-1,tvg-name="甘肃卫视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/卫视/甘肃卫视.png" group-title="卫视",甘肃卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225783/index.m3u8
+#EXTINF:-1,tvg-name="青海卫视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/卫视/青海卫视.png" group-title="卫视",青海卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225992/index.m3u8
+#EXTINF:-1,tvg-name="宁夏卫视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/卫视/宁夏卫视.png" group-title="卫视",宁夏卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225798/index.m3u8
+#EXTINF:-1,tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/卫视/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225801/index.m3u8
+#EXTINF:-1,tvg-name="辽宁卫视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/卫视/辽宁卫视.png" group-title="卫视",辽宁卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226190/index.m3u8
+#EXTINF:-1,tvg-name="吉林卫视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/卫视/吉林卫视.png" group-title="卫视",吉林卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226019/index.m3u8
+#EXTINF:-1,tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/卫视/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226157/index.m3u8
+#EXTINF:-1,tvg-name="湖北卫视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/卫视/湖北卫视.png" group-title="卫视",湖北卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225978/index.m3u8
+#EXTINF:-1,tvg-name="安徽卫视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/卫视/安徽卫视.png" group-title="卫视",安徽卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225936/index.m3u8
+#EXTINF:-1,tvg-name="江苏卫视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/卫视/江苏卫视.png" group-title="卫视",江苏卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226223/index.m3u8
+#EXTINF:-1,tvg-name="东方卫视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/卫视/东方卫视.png" group-title="卫视",东方卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225886/index.m3u8
+#EXTINF:-1,tvg-name="浙江卫视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/卫视/浙江卫视.png" group-title="卫视",浙江卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226029/index.m3u8
+#EXTINF:-1,tvg-name="江西卫视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/卫视/江西卫视.png" group-title="卫视",江西卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225984/index.m3u8
+#EXTINF:-1,tvg-name="湖南卫视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/卫视/湖南卫视.png" group-title="卫视",湖南卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226226/index.m3u8
+#EXTINF:-1,tvg-name="重庆卫视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/卫视/重庆卫视.png" group-title="卫视",重庆卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226145/index.m3u8
+#EXTINF:-1,tvg-name="四川卫视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/卫视/四川卫视.png" group-title="卫视",四川卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225742/index.m3u8
+#EXTINF:-1,tvg-name="贵州卫视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/卫视/贵州卫视.png" group-title="卫视",贵州卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225980/index.m3u8
+#EXTINF:-1,tvg-name="云南卫视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/卫视/云南卫视.png" group-title="卫视",云南卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226007/index.m3u8
+#EXTINF:-1,tvg-name="广西卫视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/卫视/广西卫视.png" group-title="卫视",广西卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225786/index.m3u8
+#EXTINF:-1,tvg-name="海南卫视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/卫视/海南卫视.png" group-title="卫视",海南卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225816/index.m3u8
+#EXTINF:-1,tvg-name="广东卫视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/卫视/广东卫视.png" group-title="卫视",广东卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225969/index.m3u8
+#EXTINF:-1,tvg-name="东南卫视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/卫视/东南卫视.png" group-title="卫视",东南卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225712/index.m3u8
+#EXTINF:-1,tvg-name="深圳卫视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/卫视/深圳卫视.png" group-title="卫视",深圳卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225996/index.m3u8
+#EXTINF:-1,tvg-name="西藏卫视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/卫视/西藏卫视.png" group-title="卫视",西藏卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226016/index.m3u8
+#EXTINF:-1,tvg-name="新疆卫视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/卫视/新疆卫视.png" group-title="卫视",新疆卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225810/index.m3u8
+#EXTINF:-1,tvg-name="厦门卫视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/卫视/厦门卫视.png" group-title="卫视",厦门卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225754/index.m3u8
+#EXTINF:-1,tvg-name="兵团卫视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/卫视/兵团卫视.png" group-title="卫视",兵团卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225751/index.m3u8
+#EXTINF:-1,tvg-name="延边卫视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/卫视/延边卫视.png" group-title="卫视",延边卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226013/index.m3u8
+#EXTINF:-1,tvg-name="农林卫视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/卫视/农林卫视.png" group-title="卫视",农林卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226058/index.m3u8
+#EXTINF:-1,tvg-name="大湾区卫视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/卫视/广东卫视.png" group-title="卫视",大湾区卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225760/index.m3u8
+#EXTINF:-1,tvg-name="山东教育卫视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/卫视/山东教育卫视.png" group-title="卫视",山东教育卫视
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000173/index.m3u8?
+#EXTINF:-1,tvg-name="三沙卫视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/卫视/三沙卫视.png" group-title="卫视",三沙卫视
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000070/index.m3u8?
+#EXTINF:-1,tvg-name="精彩影视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/数字/精彩影视.png" group-title="影视",精彩影视
+
+#EXTINF:-1,tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/CN/CHC影迷电影.png" group-title="影视",CHC影迷电影
+
+#EXTINF:-1,tvg-name="CHC动作电影" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/CN/CHC动作电影.png" group-title="影视",CHC动作电影
+http://iptv.huuc.edu.cn/hls/chcatv.m3u8
+#EXTINF:-1,tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/CN/CHC家庭影院.png" group-title="影视",CHC家庭影院
+http://iptv.huuc.edu.cn/hls/chctv.m3u8
+#EXTINF:-1,tvg-name="力量影院" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/数字/1905.png" group-title="影视",力量影院
+
+#EXTINF:-1,tvg-name="环球经典" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/数字/1905.png" group-title="影视",环球经典
+
+#EXTINF:-1,tvg-name="重温经典" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/数字/重温经典.png" group-title="影视",重温经典
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226090/index.m3u8?fmt=ts2hls
+#EXTINF:-1,tvg-name="漫长的季节" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/数字/电视剧.png" group-title="影视",漫长的季节
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226003/index.m3u8
+#EXTINF:-1,tvg-name="猎冰" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/数字/电视剧.png" group-title="影视",猎冰
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226000/index.m3u8
+#EXTINF:-1,tvg-name="庆余年" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/数字/电视剧.png" group-title="影视",庆余年
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226238/index.m3u8
+#EXTINF:-1,tvg-name="烟火人家" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/数字/电视剧.png" group-title="影视",烟火人家
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226241/index.m3u8
+#EXTINF:-1,tvg-name="黑莓电影" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/NewTV/黑莓电影.png" group-title="影视",黑莓电影
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225775/index.m3u8
+#EXTINF:-1,tvg-name="黑莓动画" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/NewTV/黑莓动画.png" group-title="少儿教育",黑莓动画
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225772/index.m3u8
+#EXTINF:-1,tvg-name="超级电视剧" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/NewTV/NewTV超级电视剧.png" group-title="影视",超级电视剧
+http://39.135.133.135/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+#EXTINF:-1,tvg-name="超级电影" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/NewTV/NewTV超级电影.png" group-title="影视",超级电影
+http://39.135.133.135/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+#EXTINF:-1,tvg-name="超级综艺" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/NewTV/NewTV超级综艺.png" group-title="休闲",超级综艺
+http://39.135.133.135/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
+#EXTINF:-1,tvg-name="超级体育" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/NewTV/NewTV超级体育.png" group-title="休闲",超级体育
+http://39.135.133.135/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1,tvg-name="家庭剧场" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/NewTV/NewTV家庭剧场.png" group-title="影视",家庭剧场
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225834/index.m3u8
+#EXTINF:-1,tvg-name="精品大剧" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/NewTV/NewTV精品大剧.png" group-title="影视",精品大剧
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225766/index.m3u8
+#EXTINF:-1,tvg-name="动作电影" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/NewTV/NewTV动作电影.png" group-title="影视",动作电影
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226034/index.m3u8
+#EXTINF:-1,tvg-name="古装剧场" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/NewTV/NewTV古装剧场.png" group-title="影视",古装剧场
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225843/index.m3u8
+#EXTINF:-1,tvg-name="中国功夫" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/NewTV/NewTV中国功夫.png" group-title="影视",中国功夫
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226043/index.m3u8
+#EXTINF:-1,tvg-name="东北热剧" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/NewTV/NewTV东北热剧.png" group-title="影视",东北热剧
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226055/index.m3u8
+#EXTINF:-1,tvg-name="潮妈辣婆" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/NewTV/NewTV潮妈辣婆.png" group-title="影视",潮妈辣婆
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226046/index.m3u8
+#EXTINF:-1,tvg-name="军旅剧场" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/NewTV/NewTV军旅剧场.png" group-title="影视",军旅剧场
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225846/index.m3u8
+#EXTINF:-1,tvg-name="惊悚悬疑" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/NewTV/NewTV惊悚悬疑.png" group-title="影视",惊悚悬疑
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225796/index.m3u8
+#EXTINF:-1,tvg-name="明星大片" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/NewTV/NewTV明星大片.png" group-title="影视",明星大片
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225837/index.m3u8
+#EXTINF:-1,tvg-name="欢乐剧场" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/NewTV/NewTV欢乐剧场.png" group-title="影视",欢乐剧场
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226052/index.m3u8
+#EXTINF:-1,tvg-name="热播精选" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/NewTV/NewTV热播精选.png" group-title="影视",热播精选
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226040/index.m3u8
+#EXTINF:-1,tvg-name="爱情喜剧" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/NewTV/NewTV爱情喜剧.png" group-title="影视",爱情喜剧
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225852/index.m3u8
+#EXTINF:-1,tvg-name="炫舞未来" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/NewTV/NewTV炫舞未来.png" group-title="休闲",炫舞未来
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225840/index.m3u8
+#EXTINF:-1,tvg-name="魅力潇湘" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/NewTV/NewTV魅力潇湘.png" group-title="影视",魅力潇湘
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225790/index.m3u8
+#EXTINF:-1,tvg-name="怡伴健康" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/NewTV/NewTV怡伴健康.png" group-title="休闲",怡伴健康
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225849/index.m3u8
+#EXTINF:-1,tvg-name="军事评论" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/NewTV/NewTV军事评论.png" group-title="休闲",军事评论
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225778/index.m3u8
+#EXTINF:-1,tvg-name="武搏世界" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/NewTV/NewTV武搏世界.png" group-title="休闲",武搏世界
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225787/index.m3u8
+#EXTINF:-1,tvg-name="农业致富" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/NewTV/NewTV农业致富.png" group-title="休闲",农业致富
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226037/index.m3u8
+#EXTINF:-1,tvg-name="金牌综艺" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/NewTV/NewTV金牌综艺.png" group-title="休闲",金牌综艺
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225769/index.m3u8
+#EXTINF:-1,tvg-name="精品纪录" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/NewTV/NewTV精品纪录.png" group-title="纪录",精品纪录
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225831/index.m3u8
+#EXTINF:-1,tvg-name="精品体育" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/NewTV/NewTV精品体育.png" group-title="休闲",精品体育
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225861/index.m3u8
+#EXTINF:-1,tvg-name="精品萌宠" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/NewTV/NewTV精品萌宠.png" group-title="休闲",精品萌宠
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225912/index.m3u8
+#EXTINF:-1,tvg-name="哒啵赛事" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/NewTV/哒啵赛事.png" group-title="休闲",哒啵赛事
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225781/index.m3u8
+#EXTINF:-1,tvg-name="哒啵电竞" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/NewTV/哒啵电竞.png" group-title="休闲",哒啵电竞
+
+#EXTINF:-1,tvg-name="精品剧场" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/数字/华数.png" group-title="影视",精品剧场
+http://gslbserv.itv.cmvideo.cn/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=8230197131234717902
+#EXTINF:-1,tvg-name="少儿动漫" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/数字/华数.png" group-title="少儿教育",少儿动漫
+http://gslbserv.itv.cmvideo.cn/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=8145334647720731271
+#EXTINF:-1,tvg-name="风尚音乐" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/数字/华数.png" group-title="休闲",风尚音乐
+http://gslbserv.itv.cmvideo.cn/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=5529729098703832176
+#EXTINF:-1,tvg-name="欧美影院" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/数字/华数.png" group-title="影视",欧美影院
+http://gslbserv.itv.cmvideo.cn/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=7185203501769528108
+#EXTINF:-1,tvg-name="亚洲影院" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/数字/华数.png" group-title="影视",亚洲影院
+http://gslbserv.itv.cmvideo.cn/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=5841816227539527643
+#EXTINF:-1,tvg-name="探索纪实" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/数字/华数.png" group-title="纪录",探索纪实
+http://gslbserv.itv.cmvideo.cn/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=5359008697329269813
+#EXTINF:-1,tvg-name="求索生活" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/数字/求索生活.png" group-title="纪录",求索生活
+http://gslbserv.itv.cmvideo.cn/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000002000003382
+#EXTINF:-1,tvg-name="求索动物" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/数字/求索动物.png" group-title="纪录",求索动物
+http://gslbserv.itv.cmvideo.cn/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000002000010046
+#EXTINF:-1,tvg-name="求索纪录" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/数字/求索记录.png" group-title="纪录",求索纪录
+http://gslbserv.itv.cmvideo.cn/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000002000032052
+#EXTINF:-1,tvg-name="求索科学" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/数字/求索科学.png" group-title="纪录",求索科学
+http://gslbserv.itv.cmvideo.cn/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000002000032344
+#EXTINF:-1,tvg-name="炫动3D" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/数字/华数.png" group-title="影视",炫动3D
+
+#EXTINF:-1,tvg-name="高清娱乐" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/数字/华数.png" group-title="休闲",高清娱乐
+
+#EXTINF:-1,tvg-name="华数4K" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/数字/华数4K.png" group-title="影视",华数4K
+
+#EXTINF:-1,tvg-name="电子竞技" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/数字/华数.png" group-title="休闲",电子竞技
+
+#EXTINF:-1,tvg-name="漫游世界" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/数字/华数.png" group-title="纪录",漫游世界
+
+#EXTINF:-1,tvg-name="爱喜剧" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/iHOT/iHOT爱喜剧.png" group-title="影视",爱喜剧
+
+#EXTINF:-1,tvg-name="爱科幻" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/iHOT/iHOT爱科幻.png" group-title="影视",爱科幻
+
+#EXTINF:-1,tvg-name="爱院线" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/iHOT/iHOT爱院线.png" group-title="影视",爱院线
+
+#EXTINF:-1,tvg-name="爱浪漫" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/iHOT/iHOT爱浪漫.png" group-title="影视",爱浪漫
+
+#EXTINF:-1,tvg-name="爱悬疑" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/iHOT/iHOT爱悬疑.png" group-title="影视",爱悬疑
+
+#EXTINF:-1,tvg-name="爱谍战" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/iHOT/iHOT爱谍战.png" group-title="影视",爱谍战
+
+#EXTINF:-1,tvg-name="爱历史" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/iHOT/iHOT爱历史.png" group-title="影视",爱历史
+
+#EXTINF:-1,tvg-name="爱科学" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/iHOT/iHOT爱科学.png" group-title="休闲",爱科学
+
+#EXTINF:-1,tvg-name="爱幼教" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/iHOT/iHOT爱幼教.png" group-title="少儿教育",爱幼教
+
+#EXTINF:-1,tvg-name="爱玩具" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/iHOT/iHOT爱玩具.png" group-title="少儿教育",爱玩具
+
+#EXTINF:-1,tvg-name="爱赛车" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/iHOT/iHOT爱赛车.png" group-title="休闲",爱赛车
+
+#EXTINF:-1,tvg-name="爱旅行" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/iHOT/iHOT爱旅行.png" group-title="影视",爱旅行
+
+#EXTINF:-1,tvg-name="爱奇谈" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/iHOT/iHOT爱奇谈.png" group-title="影视",爱奇谈
+
+#EXTINF:-1,tvg-name="爱动漫" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/iHOT/iHOT爱动漫.png" group-title="少儿教育",爱动漫
+
+#EXTINF:-1,tvg-name="爱体育" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/iHOT/iHOT爱体育.png" group-title="休闲",爱体育
+
+#EXTINF:-1,tvg-name="百变课堂" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/上海/BesTV.png" group-title="少儿教育",百变课堂
+http://111.29.9.33:6610/000000001000/5000000011000288001/index.m3u8?
+#EXTINF:-1,tvg-name="宝宝动画" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/上海/BesTV.png" group-title="少儿教育",宝宝动画
+http://111.29.9.33:6610/000000001000/5000000011000288002/index.m3u8?
+#EXTINF:-1,tvg-name="电竞天堂" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/上海/BesTV.png" group-title="休闲",电竞天堂
+http://111.29.9.33:6610/000000001000/5000000011000288003/index.m3u8?
+#EXTINF:-1,tvg-name="谍战剧场" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/上海/BesTV.png" group-title="影视",谍战剧场
+http://111.29.9.33:6610/000000001000/5000000011000288004/index.m3u8?
+#EXTINF:-1,tvg-name="华语影院" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/上海/BesTV.png" group-title="影视",华语影院
+http://111.29.9.33:6610/000000001000/5000000011000288005/index.m3u8?
+#EXTINF:-1,tvg-name="健康养生" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/上海/BesTV.png" group-title="休闲",健康养生
+http://111.29.9.33:6610/000000001000/5000000011000288006/index.m3u8?
+#EXTINF:-1,tvg-name="看天下精选" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/上海/BesTV.png" group-title="纪录",看天下精选
+http://111.29.9.33:6610/000000001000/5000000011000288007/index.m3u8?
+#EXTINF:-1,tvg-name="青春动漫" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/上海/BesTV.png" group-title="少儿教育",青春动漫
+http://111.29.9.33:6610/000000001000/5000000011000288008/index.m3u8?
+#EXTINF:-1,tvg-name="全球大片" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/上海/BesTV.png" group-title="影视",全球大片
+http://111.29.9.33:6610/000000001000/5000000011000288009/index.m3u8?
+#EXTINF:-1,tvg-name="热门剧场" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/上海/BesTV.png" group-title="影视",热门剧场
+http://111.29.9.33:6610/000000001000/5000000011000288010/index.m3u8?
+#EXTINF:-1,tvg-name="热门综艺" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/上海/BesTV.png" group-title="休闲",热门综艺
+http://111.29.9.33:6610/000000001000/5000000011000288011/index.m3u8?
+#EXTINF:-1,tvg-name="戏曲精选" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/上海/BesTV.png" group-title="休闲",戏曲精选
+http://111.29.9.33:6610/000000001000/5000000011000288012/index.m3u8?
+#EXTINF:-1,tvg-name="星光影院" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/上海/BesTV.png" group-title="影视",星光影院
+http://111.29.9.33:6610/000000001000/5000000011000288013/index.m3u8?
+#EXTINF:-1,tvg-name="纯享4K" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/数字/纯享4K.png" group-title="纪录",纯享4K
+http://111.29.9.35:6410/000000001000/1000000004000011651/index.m3u8?
+#EXTINF:-1,tvg-name="睛彩广场舞" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/数字/睛彩广场舞.png" group-title="休闲",睛彩广场舞
+http://39.134.66.122/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226482/index.m3u8
+#EXTINF:-1,tvg-name="睛彩篮球" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/数字/睛彩篮球.png" group-title="休闲",睛彩篮球
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225811/index.m3u8
+#EXTINF:-1,tvg-name="睛彩青少" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/数字/睛彩青少.png" group-title="休闲",睛彩青少
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225915/index.m3u8
+#EXTINF:-1,tvg-name="睛彩竞技" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/数字/睛彩竞技.png" group-title="休闲",睛彩竞技
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225814/index.m3u8
+#EXTINF:-1,tvg-name="金鹰纪实" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/湖南/金鹰纪实.png" group-title="纪录",金鹰纪实
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225745/index.m3u8
+#EXTINF:-1,tvg-name="茶" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/湖南/茶频道.png" group-title="休闲",茶频道
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000043/index.m3u8?
+#EXTINF:-1,tvg-name="快乐垂钓" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/湖南/快乐垂钓.png" group-title="休闲",快乐垂钓
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000044/index.m3u8?
+#EXTINF:-1,tvg-name="收藏天下" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/山东/收藏天下.png" group-title="休闲",收藏天下
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000037/index.m3u8?
+#EXTINF:-1,tvg-name="车迷" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/北京/车迷频道.png" group-title="休闲",车迷
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000221/index.m3u8?
+#EXTINF:-1,tvg-name="汽摩" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/重庆/汽摩.png" group-title="休闲",汽摩
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000018/index.m3u8?
+#EXTINF:-1,tvg-name="国学" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/河南/国学.png" group-title="休闲",国学
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000058/index.m3u8?
+#EXTINF:-1,tvg-name="书画" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/数字/书画.png" group-title="休闲",书画
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000020/index.m3u8?
+#EXTINF:-1,tvg-name="中国天气" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/数字/中国天气.png" group-title="休闲",中国天气
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000045/index.m3u8?
+#EXTINF:-1,tvg-name="证劵服务" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/数字/证券服务.png" group-title="休闲",证劵服务
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000041/index.m3u8?
+#EXTINF:-1,tvg-name="环球奇观" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/数字/环球奇观.png" group-title="休闲",环球奇观
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000160/index.m3u8?
+#EXTINF:-1,tvg-name="财富天下" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/江苏/财富天下.png" group-title="休闲",财富天下
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000042/index.m3u8?
+#EXTINF:-1,tvg-name="家庭理财" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/辽宁/家庭理财.png" group-title="休闲",家庭理财
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000166/index.m3u8?
+#EXTINF:-1,tvg-name="四海钓鱼" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/北京/四海钓鱼.png" group-title="休闲",四海钓鱼
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000049/index.m3u8?
+#EXTINF:-1,tvg-name="中华特产" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/北京/中华特产.png" group-title="休闲",中华特产
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000046/index.m3u8?
+#EXTINF:-1,tvg-name="生态环境" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/北京/生态环境.png" group-title="休闲",生态环境
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000220/index.m3u8?
+#EXTINF:-1,tvg-name="优优宝贝" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/北京/优优宝贝.png" group-title="少儿教育",优优宝贝
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000164/index.m3u8?
+#EXTINF:-1,tvg-name="乐游" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/上海/乐游.png" group-title="纪录",乐游
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000106/index.m3u8?
+#EXTINF:-1,tvg-name="法治天地" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/上海/法治天地.png" group-title="休闲",法治天地
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000123/index.m3u8?
+#EXTINF:-1,tvg-name="生活时尚" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/上海/生活时尚.png" group-title="休闲",生活时尚
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000109/index.m3u8?
+#EXTINF:-1,tvg-name="游戏风云" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/上海/游戏风云.png" group-title="休闲",游戏风云
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000121/index.m3u8?
+#EXTINF:-1,tvg-name="东方财经" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/上海/东方财经.png" group-title="休闲",东方财经
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000122/index.m3u8?
+#EXTINF:-1,tvg-name="魅力足球" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/上海/魅力足球.png" group-title="休闲",魅力足球
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000126/index.m3u8?
+#EXTINF:-1,tvg-name="金色学堂" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/上海/金色学堂.png" group-title="少儿教育",金色学堂
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000124/index.m3u8?
+#EXTINF:-1,tvg-name="动漫秀场" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/上海/动漫秀场.png" group-title="少儿教育",动漫秀场
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000120/index.m3u8?
+#EXTINF:-1,tvg-name="都市剧场" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/上海/都市剧场.png" group-title="影视",都市剧场
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000110/index.m3u8?
+#EXTINF:-1,tvg-name="欢笑剧场" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/上海/欢笑剧场4K.png" group-title="影视",欢笑剧场4K
+
+#EXTINF:-1,tvg-name="东方影视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/上海/东方影视.png" group-title="影视",东方影视
+
+#EXTINF:-1,tvg-name="第一财经" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/上海/第一财经.png" group-title="休闲",第一财经
+
+#EXTINF:-1,tvg-name="劲爆体育" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/上海/劲爆体育.png" group-title="休闲",劲爆体育
+
+#EXTINF:-1,tvg-name="五星体育" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/上海/五星体育.png" group-title="休闲",五星体育
+
+#EXTINF:-1,tvg-name="上海新闻综合" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/上海/上海新闻综合.png" group-title="休闲",上海新闻综合
+
+#EXTINF:-1,tvg-name="上海都市" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/上海/上海都市.png" group-title="休闲",上海都市
+
+#EXTINF:-1,tvg-name="上海教育" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/上海/上海教育.png" group-title="少儿教育",上海教育
+
+#EXTINF:-1,tvg-name="新视觉" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/上海/新视觉.png" group-title="休闲",新视觉
+
+#EXTINF:-1,tvg-name="天元围棋" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/贵州/天元围棋.png" group-title="休闲",天元围棋
+
+#EXTINF:-1,tvg-name="太原教育" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/山西/太原教育.png" group-title="少儿教育",太原教育
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000178/index.m3u8?
+#EXTINF:-1,tvg-name="早期教育" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/CN/CETV早期教育.png" group-title="少儿教育",早期教育
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000036/index.m3u8?
+#EXTINF:-1,tvg-name="CETV1" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/CN/CETV1.png" group-title="少儿教育",CETV1
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225792/index.m3u8
+#EXTINF:-1,tvg-name="CETV2" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/CN/CETV2.png" group-title="少儿教育",CETV2
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225813/index.m3u8
+#EXTINF:-1,tvg-name="CETV3" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/CN/CETV3.png" group-title="少儿教育",CETV3
+http://iptv.huuc.edu.cn/hls/cetv3.m3u8
+#EXTINF:-1,tvg-name="CETV4" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/CN/CETV4.png" group-title="少儿教育",CETV4
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/index.m3u8
+#EXTINF:-1,tvg-name="哈哈炫动" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/上海/哈哈炫动.png" group-title="少儿教育",哈哈炫动
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226010/index.m3u8
+#EXTINF:-1,tvg-name="卡酷少儿" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/北京/卡酷少儿.png" group-title="少儿教育",卡酷少儿
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225795/index.m3u8
+#EXTINF:-1,tvg-name="金鹰卡通" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/湖南/金鹰卡通.png" group-title="少儿教育",金鹰卡通
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225730/index.m3u8
+#EXTINF:-1,tvg-name="嘉佳卡通" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/广东/嘉佳卡通.png" group-title="少儿教育",嘉佳卡通
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225819/index.m3u8
+#EXTINF:-1,tvg-name="优漫卡通" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/江苏/优漫卡通.png" group-title="少儿教育",优漫卡通
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225736/index.m3u8
+#EXTINF:-1,tvg-name="SXJZTV1" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/山西/晋中.png" group-title="地方",晋中综合
+https://jzlive.jztvnews.cn:8210/live/jzzh.m3u8
+#EXTINF:-1,tvg-name="SXJZTV2" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/山西/晋中.png" group-title="地方",晋中公共
+https://jzlive.jztvnews.cn:8210/live/jzgg.m3u8
+#EXTINF:-1,tvg-name="太原新闻综合" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/山西/太原1.png" group-title="地方",太原新闻综合
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000180/index.m3u8?
+#EXTINF:-1,tvg-name="太原百姓" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/山西/太原2.png" group-title="地方",太原百姓
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000181/index.m3u8?
+#EXTINF:-1,tvg-name="太原社教法制" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/山西/太原3.png" group-title="地方",太原社教法制
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000182/index.m3u8?
+#EXTINF:-1,tvg-name="太原影视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/山西/太原4.png" group-title="地方",太原影视
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000183/index.m3u8?
+#EXTINF:-1,tvg-name="太原文体" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/山西/太原5.png" group-title="地方",太原文体
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000185/index.m3u8?
+#EXTINF:-1,tvg-name="北京纪实科教" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/北京/北京纪实科教.png" group-title="纪录",北京纪实科教
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000015/index.m3u8?
+#EXTINF:-1,tvg-name="北京纪实科教8K" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/北京/北京纪实科教8K.png" group-title="纪录",北京纪实科教8K
+http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+#EXTINF:-1,tvg-name="北京4K超清" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/北京/北京IPTV4K超清.png" group-title="影视",北京4K超清
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
+#EXTINF:-1,tvg-name="北京淘电影" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/北京/北京IPTV淘电影.png" group-title="影视",北京淘电影
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
+#EXTINF:-1,tvg-name="北京淘剧场" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/北京/北京IPTV淘剧场.png" group-title="影视",北京淘剧场
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-%2CEND
+#EXTINF:-1,tvg-name="北京萌宠TV" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/北京/北京IPTV萌宠TV.png" group-title="影视",北京萌宠TV
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E_PpxWPtvSZRFtu_Ged_-vQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO0istnBuoA2R9ODSCqyIyS%2CEND
+#EXTINF:-1,tvg-name="北京淘娱乐" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/北京/北京IPTV淘娱乐.png" group-title="休闲",北京淘娱乐
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ex0efg9fpenP8E8lWJUb5Lg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
+#EXTINF:-1,tvg-name="北京淘Baby" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/北京/北京IPTV淘Baby.png" group-title="影视",北京淘Baby
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EN0sbBMpQv4sLsW5foy3YfA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
+#EXTINF:-1,tvg-name="北京重温经典" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/北京/北京重温经典.png" group-title="影视",北京重温经典
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226556/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eg58chGORQFpH6J3zm0kF5g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPAP4UJ9bY8mj3RcXbpDq31%2CEND
+#EXTINF:-1,tvg-name="北京影视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/北京/北京影视.png" group-title="影视",北京影视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226433/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EygquRbh9L0wUPRY53fsZWw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO62IynDcU1yYDL1b4Xte8T%2CEND
+#EXTINF:-1,tvg-name="北京财经" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/北京/北京财经.png" group-title="地方",北京财经
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226516/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eh9_SEkmWeMdS1TMnIILZgg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPIiicEW7OIvk1s-X-PXHqO%2CEND
+#EXTINF:-1,tvg-name="北京生活" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/北京/北京生活.png" group-title="地方",北京生活
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226514/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Es-PVNcPJsjr_oBdcXGT40g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWvZ0r6eMXcXJOGrCpJiq1%2CEND
+#EXTINF:-1,tvg-name="北京文艺" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/北京/北京文艺.png" group-title="地方",北京文艺
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226440/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EWrJcgMpdGPvZavpf4dmmrQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNhmwDsUZnvQgU5E5wiGA2g%2CEND
+#EXTINF:-1,tvg-name="北京新闻" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/北京/北京新闻.png" group-title="地方",北京新闻
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EncK5uEAdYwWMsf8WJWI1mQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_LSIQh_h2P54Cz-MqgJqC%2CEND
+#EXTINF:-1,tvg-name="北京国际" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/北京/北京international.png" group-title="地方",北京国际
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226510/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EIfgL7tTUNqHAIdgvKuwj8A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPr9j5nfyiWS_jEXD6m401A%2CEND
+#EXTINF:-1,tvg-name="北京体育休闲" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/北京/北京体育休闲.png" group-title="地方",北京体育休闲
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EeVAybrHg955d_IRT9e_uHQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMLCKqkSfuGOusJwBMwlCbz%2CEND
+#EXTINF:-1,tvg-name="梨园频道" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/河南/梨园.png" group-title="休闲",梨园
+http://live.nctv.top/Xsuikstg/hntv.php?id=hnly
+#EXTINF:-1,tvg-name="文物宝库" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/河南/文物宝库.png" group-title="休闲",文物宝库
+http://live.nctv.top/Xsuikstg/hntv.php?id=wwbk
+#EXTINF:-1,tvg-name="武术世界" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/河南/武术世界.png" group-title="休闲",武术世界
+http://live.nctv.top/Xsuikstg/hntv.php?id=wspd
+#EXTINF:-1,tvg-name="移动戏曲" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/河南/移动戏曲.png" group-title="休闲",移动戏曲
+http://live.nctv.top/Xsuikstg/hntv.php?id=ydxj
+#EXTINF:-1,tvg-name="睛彩中原" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/河南/睛彩中原.png" group-title="休闲",睛彩中原
+http://live.nctv.top/Xsuikstg/hntv.php?id=jczy
+#EXTINF:-1,tvg-name="河南电视剧" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/河南/河南电视剧.png" group-title="影视",河南电视剧
+http://live.nctv.top/Xsuikstg/hntv.php?id=hndsj
+#EXTINF:-1,tvg-name="河南法治" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/河南/河南法治.png" group-title="地方",河南法治
+http://live.nctv.top/Xsuikstg/hntv.php?id=hmfz
+#EXTINF:-1,tvg-name="河南新闻" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/河南/河南新闻.png" group-title="地方",河南新闻
+http://live.nctv.top/Xsuikstg/hntv.php?id=hnxw
+#EXTINF:-1,tvg-name="河南公共" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/河南/河南公共.png" group-title="地方",河南公共
+http://live.nctv.top/Xsuikstg/hntv.php?id=hngg
+#EXTINF:-1,tvg-name="河南民生" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/河南/河南民生.png" group-title="地方",河南民生
+http://live.nctv.top/Xsuikstg/hntv.php?id=hnms
+#EXTINF:-1,tvg-name="河南都市" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/河南/河南都市.png" group-title="地方",河南都市
+http://live.nctv.top/Xsuikstg/hntv.php?id=hnds
+#EXTINF:-1,tvg-name="河南乡村" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/河南/河南乡村.png" group-title="地方",河南乡村
+http://live.nctv.top/Xsuikstg/hntv.php?id=hnxc
+#EXTINF:-1,tvg-name="象视界" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/河南/象视界.png" group-title="地方",象视界
+http://live.nctv.top/Xsuikstg/hntv.php?id=xsj
+#EXTINF:-1,tvg-name="山东文旅" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/山东/山东文旅.png" group-title="地方",山东文旅
+http://live.nctv.top/Xsuikstg/sdtv.php?id=sdwl
+#EXTINF:-1,tvg-name="山东齐鲁" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/山东/山东齐鲁.png" group-title="地方",山东齐鲁
+http://live.nctv.top/Xsuikstg/sdtv.php?id=sdql
+#EXTINF:-1,tvg-name="山东体育" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/山东/山东体育.png" group-title="地方",山东体育
+http://live.nctv.top/Xsuikstg/sdtv.php?id=sdty
+#EXTINF:-1,tvg-name="山东生活" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/山东/山东生活.png" group-title="地方",山东生活
+http://live.nctv.top/Xsuikstg/sdtv.php?id=sdsh
+#EXTINF:-1,tvg-name="山东综艺" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/山东/山东综艺.png" group-title="地方",山东综艺
+http://live.nctv.top/Xsuikstg/sdtv.php?id=sdzy
+#EXTINF:-1,tvg-name="山东新闻" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/山东/山东新闻.png" group-title="地方",山东新闻
+http://live.nctv.top/Xsuikstg/sdtv.php?id=sdxw
+#EXTINF:-1,tvg-name="山东农科" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/山东/山东农科.png" group-title="地方",山东农科
+http://live.nctv.top/Xsuikstg/sdtv.php?id=sdnk
+#EXTINF:-1,tvg-name="山东文旅" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/山东/山东文旅.png" group-title="地方",山东文旅
+http://live.nctv.top/Xsuikstg/sdtv.php?id=sdwl
+#EXTINF:-1,tvg-name="山东少儿" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/山东/山东少儿.png" group-title="少儿教育",山东少儿
+http://live.nctv.top/Xsuikstg/sdtv.php?id=sdse
+#EXTINF:-1,tvg-name="河北影视剧" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/河北/河北影视剧.png" group-title="影视",河北影视剧
+http://live.nctv.top/Xsuikstg/hbtv.php?id=hbys
+#EXTINF:-1,tvg-name="河北少儿科教" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/河北/河北少儿科教.png" group-title="少儿教育",河北少儿科教
+http://live.nctv.top/Xsuikstg/hbtv.php?id=sekj
+#EXTINF:-1,tvg-name="河北经济" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/河北/河北经济生活.png" group-title="地方",河北经济生活
+http://live.nctv.top/Xsuikstg/hbtv.php?id=jjsh
+#EXTINF:-1,tvg-name="河北都市" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/河北/河北都市.png" group-title="地方",河北都市
+http://live.nctv.top/Xsuikstg/hbtv.php?id=hbds
+#EXTINF:-1,tvg-name="河北文旅公共" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/河北/河北文旅公共.png" group-title="地方",河北文旅公共
+http://live.nctv.top/Xsuikstg/hbtv.php?id=hbgg
+#EXTINF:-1,tvg-name="河北农民" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/河北/河北农民.png" group-title="地方",河北农民
+http://live.nctv.top/Xsuikstg/hbtv.php?id=nmpd
+#EXTINF:-1,tvg-name="陕西新闻资讯" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/陕西/陕西新闻资讯.png" group-title="地方",陕西新闻资讯
+http://live.nctv.top/Xsuikstg/sxtv.php?id=1127
+#EXTINF:-1,tvg-name="陕西都市青春" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/陕西/陕西都市青春.png" group-title="地方",陕西都市青春
+http://live.nctv.top/Xsuikstg/sxtv.php?id=1128
+#EXTINF:-1,tvg-name="陕西银龄" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/陕西/陕西银龄.png" group-title="地方",陕西银龄
+http://live.nctv.top/Xsuikstg/sxtv.php?id=1129
+#EXTINF:-1,tvg-name="陕西秦腔" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/陕西/陕西秦腔.png" group-title="休闲",陕西秦腔
+http://live.nctv.top/Xsuikstg/sxtv.php?id=1130
+#EXTINF:-1,tvg-name="陕西体育休闲" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/陕西/陕西体育休闲.png" group-title="地方",陕西体育休闲
+http://live.nctv.top/Xsuikstg/sxtv.php?id=1179
+#EXTINF:-1,tvg-name="西部电影" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/陕西/陕西西部电影.png" group-title="影视",陕西西部电影
+
+#EXTINF:-1,tvg-name="陕西移动" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/陕西/陕西移动.png" group-title="影视",陕西移动
+
+#EXTINF:-1,tvg-name="浙江教科影视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/浙江/浙江教科影视.png" group-title="影视",浙江教科影视
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1,tvg-name="浙江少儿" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/浙江/浙江少儿.png" group-title="少儿教育",浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1,tvg-name="之江纪录" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/浙江/之江纪录.png" group-title="纪录",之江纪录
+https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1,tvg-name="钱江都市" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/浙江/钱江都市.png" group-title="地方",钱江都市
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1,tvg-name="浙江经济生活" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/浙江/浙江经济生活.png" group-title="地方",浙江经济生活
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1,tvg-name="浙江民生休闲" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/浙江/浙江民生休闲.png" group-title="地方",浙江民生休闲
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1,tvg-name="浙江新闻" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/浙江/浙江新闻.png" group-title="地方",浙江新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1,tvg-name="浙江国际" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/浙江/浙江国际.png" group-title="地方",浙江国际
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1,tvg-name="江苏影视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/江苏/江苏影视.png" group-title="影视",江苏影视
+http://live.nctv.top/Xsuikstg/jstv5.php?id=jsys
+#EXTINF:-1,tvg-name="江苏新闻" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/江苏/江苏新闻.png" group-title="地方",江苏新闻
+http://live.nctv.top/Xsuikstg/jstv5.php?id=jsggxw
+#EXTINF:-1,tvg-name="江苏综艺" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/江苏/江苏综艺.png" group-title="地方",江苏综艺
+http://live.nctv.top/Xsuikstg/jstv5.php?id=jszy
+#EXTINF:-1,tvg-name="江苏城市" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/江苏/江苏城市.png" group-title="地方",江苏城市
+http://live.nctv.top/Xsuikstg/jstv5.php?id=jscs
+#EXTINF:-1,tvg-name="江苏国际" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/江苏/江苏国际.png" group-title="地方",江苏国际
+http://live.nctv.top/Xsuikstg/jstv5.php?id=jsgj
+#EXTINF:-1,tvg-name="江苏教育" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/江苏/江苏教育.png" group-title="少儿教育",江苏教育
+http://live.nctv.top/Xsuikstg/jstv5.php?id=jsjy
+#EXTINF:-1,tvg-name="江苏体育休闲" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/江苏/江苏体育休闲.png" group-title="地方",江苏体育休闲
+http://live.nctv.top/Xsuikstg/jstv5.php?id=jsty
+#EXTINF:-1,tvg-name="安徽影视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/安徽/安徽影视.png" group-title="影视",安徽影视
+
+#EXTINF:-1,tvg-name="安徽经济生活" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/安徽/安徽经济生活.png" group-title="地方",安徽经济生活
+
+#EXTINF:-1,tvg-name="安徽综艺" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/安徽/安徽综艺体育.png" group-title="地方",安徽综艺体育
+
+#EXTINF:-1,tvg-name="黑龙江影视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/黑龙江/黑龙江影视.png" group-title="影视",黑龙江影视
+http://39.135.133.135/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
+#EXTINF:-1,tvg-name="黑龙江少儿" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/黑龙江/黑龙江少儿.png" group-title="少儿教育",黑龙江少儿
+http://39.134.67.100/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226304/index.m3u8
+#EXTINF:-1,tvg-name="黑龙江新闻法治" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/黑龙江/黑龙江新闻法治.png" group-title="地方",黑龙江新闻法治
+http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
+#EXTINF:-1,tvg-name="黑龙江文体" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/黑龙江/黑龙江文体.png" group-title="地方",黑龙江文体
+http://39.135.133.181/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
+#EXTINF:-1,tvg-name="黑龙江都市" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/黑龙江/黑龙江都市.png" group-title="地方",黑龙江都市
+http://39.135.133.178/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
+#EXTINF:-1,tvg-name="黑龙江农业科教" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/黑龙江/黑龙江农业科教.png" group-title="地方",黑龙江农业科教
+http://39.135.133.180/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
+#EXTINF:-1,tvg-name="内蒙古少儿" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/内蒙古/内蒙古少儿.png" group-title="少儿教育",内蒙古少儿
+https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
+#EXTINF:-1,tvg-name="内蒙古文体娱乐" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/内蒙古/内蒙古文体娱乐.png" group-title="地方",内蒙古文体娱乐
+https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=c7b5c515d2bb6df442492d54955329a3&txTime=771E8800
+#EXTINF:-1,tvg-name="内蒙古新闻综合" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/内蒙古/内蒙古新闻综合.png" group-title="地方",内蒙古新闻综合
+https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
+#EXTINF:-1,tvg-name="内蒙古经济生活" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/内蒙古/内蒙古经济生活.png" group-title="地方",内蒙古经济生活
+https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
+#EXTINF:-1,tvg-name="内蒙古农牧" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/内蒙古/内蒙古农牧.png" group-title="地方",内蒙古农牧	
+https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=4d368a175afa19737a9f5be10af24fe2&txTime=771E8800
+#EXTINF:-1,tvg-name="海南新闻" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/海南/海南新闻.png" group-title="地方",海南新闻
+http://111.29.9.33:6410/200000001891/460000089100010009/1.m3u8?
+#EXTINF:-1,tvg-name="海南文旅" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/海南/海南文旅.png" group-title="地方",海南文旅
+http://111.29.9.33:6410/200000001891/460000089100010012/1.m3u8?
+#EXTINF:-1,tvg-name="海南少儿" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/海南/海南少儿.png" group-title="少儿教育",海南少儿
+http://111.29.9.33:6410/200000001891/460000089100010013/1.m3u8?
+#EXTINF:-1,tvg-name="海南公共" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/海南/海南公共.png" group-title="地方",海南公共
+http://111.29.9.33:6410/200000001891/460000089100010011/1.m3u8?
+#EXTINF:-1,tvg-name="海南自贸" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/海南/海南自贸.png" group-title="地方",海南自贸
+http://111.29.9.33:6410/200000001891/460000089100010010/1.m3u8?
+#EXTINF:-1,tvg-name="湖南电影" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/湖南/湖南电影.png" group-title="地方",湖南电影
+
+#EXTINF:-1,tvg-name="湖南电视剧" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/湖南/湖南电视剧.png" group-title="地方",湖南电视剧
+
+#EXTINF:-1,tvg-name="先锋乒羽" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/湖南/先锋乒羽.png" group-title="休闲",先锋乒羽
+
+#EXTINF:-1,tvg-name="湖南经视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/湖南/湖南经视.png" group-title="地方",湖南经视
+
+#EXTINF:-1,tvg-name="湖南都市" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/湖南/湖南都市.png" group-title="地方",湖南都市
+
+#EXTINF:-1,tvg-name="湖南娱乐" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/湖南/湖南娱乐.png" group-title="地方",湖南娱乐
+
+#EXTINF:-1,tvg-name="湖南国际" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/湖南/湖南国际.png" group-title="地方",湖南国际
+
+#EXTINF:-1,tvg-name="湖南爱晚" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/湖南/湖南爱晚.png" group-title="地方",湖南爱晚
+
+#EXTINF:-1,tvg-name="甘肃文化影视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/甘肃/甘肃文化影视.png" group-title="影视",甘肃文化影视
+
+#EXTINF:-1,tvg-name="甘肃少儿" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/甘肃/甘肃少儿.png" group-title="少儿教育",甘肃少儿
+
+#EXTINF:-1,tvg-name="甘肃公共应急" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/甘肃/甘肃公共应急.png" group-title="地方",甘肃公共应急
+
+#EXTINF:-1,tvg-name="甘肃科教" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/甘肃/甘肃科教.png" group-title="地方",甘肃科教
+
+#EXTINF:-1,tvg-name="甘肃移动" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/甘肃/甘肃移动.png" group-title="地方",甘肃移动
+
+#EXTINF:-1,tvg-name="甘肃经济" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/甘肃/甘肃经济.png" group-title="地方",甘肃经济
+
+#EXTINF:-1,tvg-name="广东影视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/广东/广东影视.png" group-title="影视",广东影视
+http://live.nctv.top/Xsuikstg/migu.php?id=gdys
+#EXTINF:-1,tvg-name="宁夏公共" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/宁夏/宁夏公共.png" group-title="地方",宁夏公共
+
+#EXTINF:-1,tvg-name="宁夏经济" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/宁夏/宁夏经济.png" group-title="地方",宁夏经济
+
+#EXTINF:-1,tvg-name="宁夏文旅" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/宁夏/宁夏文旅.png" group-title="地方",宁夏文旅
+
+#EXTINF:-1,tvg-name="宁夏少儿" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/宁夏/宁夏少儿.png" group-title="少儿教育",宁夏少儿
+
+#EXTINF:-1,tvg-name="江西都市" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/江西/江西都市.png" group-title="地方",江西都市
+
+#EXTINF:-1,tvg-name="江西经济生活" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/江西/江西经济生活.png" group-title="地方",江西经济生活
+
+#EXTINF:-1,tvg-name="江西影视旅游" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/江西/江西影视旅游.png" group-title="影视",江西影视旅游
+
+#EXTINF:-1,tvg-name="江西公共农业" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/江西/江西公共农业.png" group-title="地方",	江西公共农业
+
+#EXTINF:-1,tvg-name="江西少儿" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/江西/江西少儿.png" group-title="少儿教育",江西少儿
+
+#EXTINF:-1,tvg-name="江西新闻" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/江西/江西新闻.png" group-title="地方",江西新闻
+
+#EXTINF:-1,tvg-name="江西移动" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/江西/江西移动.png" group-title="地方",江西移动
+
+#EXTINF:-1,tvg-name="陶瓷" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/江西/陶瓷.png" group-title="休闲",陶瓷
+
+#EXTINF:-1,tvg-name="海峡卫视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/福建/海峡卫视.png" group-title="卫视",海峡卫视
+
+#EXTINF:-1,tvg-name="福建电视剧" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/福建/福建电视剧.png" group-title="影视",福建电视剧
+
+#EXTINF:-1,tvg-name="福建少儿" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/福建/福建少儿.png" group-title="少儿教育",福建少儿
+
+#EXTINF:-1,tvg-name="福建教育" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/福建/福建教育.png" group-title="少儿教育",福建教育
+
+#EXTINF:-1,tvg-name="福建经济" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/福建/福建经济.png" group-title="地方",福建经济
+
+#EXTINF:-1,tvg-name="福建旅游" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/福建/福建旅游.png" group-title="地方",福建旅游
+
+#EXTINF:-1,tvg-name="福建文体" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/福建/福建文体.png" group-title="地方",福建文体
+
+#EXTINF:-1,tvg-name="福建公共" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/福建/福建乡村振兴公共.png" group-title="地方",福建乡村振兴公共
+
+#EXTINF:-1,tvg-name="福建新闻" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/福建/福建新闻.png" group-title="地方",福建新闻
+
+#EXTINF:-1,tvg-name="福建综合" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/福建/福建综合.png" group-title="地方",福建综合
+
+#EXTINF:-1,tvg-name="峨眉电影" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/四川/峨眉电影.png" group-title="影视",峨眉电影
+#EXTINF:-1,tvg-name="峨眉电影" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/四川/峨眉电影.png" group-title="影视",峨眉电影•4K
+#EXTINF:-1,tvg-name="四川经济" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/四川/四川经济.png" group-title="地方",四川经济
+#EXTINF:-1,tvg-name="四川文化旅游" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/四川/四川文化旅游.png" group-title="地方",四川文化旅游
+#EXTINF:-1,tvg-name="四川新闻" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/四川/四川新闻.png" group-title="地方",四川新闻
+#EXTINF:-1,tvg-name="四川影视文艺" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/四川/四川影视文艺.png" group-title="影视",四川影视文艺
+#EXTINF:-1,tvg-name="四川妇女儿童" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/四川/四川妇女儿童.png" group-title="少儿教育",四川妇女儿童
+#EXTINF:-1,tvg-name="四川科教" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/四川/四川科教.png" group-title="少儿教育",四川科教
+#EXTINF:-1,tvg-name="四川乡村" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/四川/四川乡村.png" group-title="地方",四川乡村
+#EXTINF:-1,tvg-name="香港卫视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/卫视/香港卫视.png" group-title="卫视",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1,tvg-name="凤凰中文" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/GAT/凤凰中文.png" group-title="卫视",凤凰中文
+http://iptv.huuc.edu.cn/hls/fhzw.m3u8
+#EXTINF:-1,tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/GAT/凤凰资讯.png" group-title="卫视",凤凰资讯
+http://iptv.huuc.edu.cn/hls/fhzx.m3u8
+#EXTINF:-1,tvg-name="星空卫视" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/GAT/星空卫视.png" group-title="卫视",星空卫视
+http://iptv.huuc.edu.cn/hls/startv.m3u8
