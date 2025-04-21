@@ -86,8 +86,6 @@ http://[2409:8087:c20:21::2:11]:6610/040000001000/351000010000000600000000000001
 http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000124/index.m3u8?
 #EXTINF:-1,tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://epg.v1.mk/logo/中国天气.png" group-title="央视数字",中国天气
 http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000045/index.m3u8?
-#EXTINF:-1,tvg-id="祁县新闻" tvg-name="祁县新闻" tvg-logo="https://epg.v1.mk/logo/祁县新闻.png" group-title="地方",祁县新闻
-http://ggpagerl.live.sxmty.com/live/hls/b350dc1ac5da45c2b2233f6eb122ddf4/49d3766c7f204685a2a8f027b234c33d.m3u8?zshanxd
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="卫视",北京卫视
 http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000017/index.m3u8? 
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="卫视",东方卫视
