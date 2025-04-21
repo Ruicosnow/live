@@ -62,12 +62,6 @@ http://[2409:8087:c20:21::2:11]:6610/040000001000/351000010000000600000000000001
 http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000030/index.m3u8?
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.v1.mk/logo/CCTV4K.png" group-title="央视数字",CCTV4K
 http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000189/index.m3u8?
-#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.v1.mk/logo/CHC动作电影.png" group-title="央视数字",CHC动作电影
-http://1.82.234.113:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
-#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.v1.mk/logo/CHC家庭影院.png" group-title="央视数字",CHC家庭影院
-http://1.82.234.113:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
-#EXTINF:-1,tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://epg.v1.mk/logo/CHC影迷电影.png" group-title="央视数字",CHC影迷电影
-http://1.82.234.113:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.v1.mk/logo/都市剧场.png" group-title="央视数字",都市剧场
 http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000110/index.m3u8?
 #EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.v1.mk/logo/魅力足球.png" group-title="央视数字",魅力足球
