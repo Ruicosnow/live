@@ -49,7 +49,7 @@ http://[2409:8087:c20:21::2:11]:6610/040000001000/351000010000000600000000000000
 #EXTINF:-1,tvg-id="CCTV风云音乐" tvg-name="CCTV风云音乐" tvg-logo="https://epg.v1.mk/logo/CCTV风云音乐.png" group-title="央视数字",CCTV风云音乐
 http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000024/index.m3u8?
 #EXTINF:-1,tvg-id="CCTV风云足球" tvg-name="CCTV风云足球" tvg-logo="https://epg.v1.mk/logo/CCTV风云足球.png" group-title="央视数字",CCTV风云足球
-http://1.82.234.113:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8
+http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000027/index.m3u8?
 #EXTINF:-1,tvg-id="CCTV怀旧剧场" tvg-name="CCTV怀旧剧场" tvg-logo="https://epg.v1.mk/logo/CCTV怀旧剧场.png" group-title="央视数字",CCTV怀旧剧场
 http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000029/index.m3u8?
 #EXTINF:-1,tvg-id="CCTV女性时尚" tvg-name="CCTV女性时尚" tvg-logo="https://epg.v1.mk/logo/CCTV女性时尚.png" group-title="央视数字",CCTV女性时尚
