@@ -36,6 +36,12 @@ http://[2409:8087:c28:20::2:11]:6610/040000001000/351000010000000600000000000000
 http://[2409:8087:c28:20::2:11]:6610/040000001000/35100001000000060000000000000105/index.m3u8?
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视",CCTV17
 http://[2409:8087:c28:20::2:11]:6610/040000001000/35100001000000060000000000000208/index.m3u8?
+#EXTINF:-1,tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.cn/tv/CCTV4欧洲.png" group-title="央视",CCTV4欧洲
+http://[2409:8087:c00:21::2:37]:6610/040000001000/00000001000000060000000000000525/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.cn/tv/CCTV4美洲.png" group-title="央视",CCTV4美洲
+http://[2409:8087:c00:21::2:37]:6610/040000001000/00000001000000060000000000000526/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="央视",CGTN
+http://[2409:8087:c00:21::2:37]:6610/040000001000/00000001000000060000000000000527/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="CCTV第一剧场" tvg-name="CCTV第一剧场" tvg-logo="https://epg.v1.mk/logo/CCTV第一剧场.png" group-title="央视数字",CCTV第一剧场
 http://[2409:8087:c28:20::2:11]:6610/040000001000/35100001000000060000000000000022/index.m3u8?
 #EXTINF:-1,tvg-id="CCTV电视指南" tvg-name="CCTV电视指南" tvg-logo="https://epg.v1.mk/logo/CCTV电视指南.png" group-title="央视数字",CCTV电视指南
