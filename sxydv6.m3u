@@ -94,6 +94,8 @@ http://[2409:8087:c28:20::2:11]:6610/040000001000/351000010000000600000000000001
 http://[2409:8087:c28:20::2:11]:6610/040000001000/35100001000000060000000000000045/index.m3u8?
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="卫视",北京卫视
 http://[2409:8087:c28:20::2:11]:6610/040000001000/35100001000000060000000000000017/index.m3u8? 
+#EXTINF:-1,tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://epg.v1.mk/logo/北京卫视4K.png" group-title="卫视",北京卫视4K
+http://[2409:8087:c00:21::2:37]:6610/040000001000/00000001000000060000000000000549/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="卫视",东方卫视
 http://[2409:8087:c28:20::2:11]:6610/040000001000/35100001000000060000000000000077/index.m3u8?
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="卫视",浙江卫视
