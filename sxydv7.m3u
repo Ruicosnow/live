@@ -46,6 +46,18 @@ http://[2409:8087:c00:21::2:37]:6610/040000001000/000000010000000600000000000005
 http://[2409:8087:c00:21::2:37]:6610/040000001000/00000001000000060000000000000526/index.m3u8?servicetype=1servicetype=1
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="央视",CGTN
 http://[2409:8087:c00:21::2:37]:6610/040000001000/00000001000000060000000000000527/index.m3u8?servicetype=1servicetype=1
+#EXTINF:-1,tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.cn/tv/CGTN纪录.png" group-title="央视",CGTN纪录
+http://[2409:8087:c00:21::2:32]:6610/040000001000/00000001000000060000000000000528/index.m3u8?servicetype=1servicetype=1
+#EXTINF:-1,tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西语.png" group-title="央视",CGTN西语
+http://[2409:8087:c00:21::2:32]:6610/040000001000/00000001000000060000000000000529/index.m3u8?servicetype=1servicetype=1
+#EXTINF:-1,tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.cn/tv/CGTN法语.png" group-title="央视",CGTN法语
+http://[2409:8087:c00:21::2:32]:6610/040000001000/00000001000000060000000000000530/index.m3u8?servicetype=1servicetype=1
+#EXTINF:-1,tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="央视",CGTN阿语
+http://[2409:8087:c00:21::2:32]:6610/040000001000/00000001000000060000000000000531/index.m3u8?servicetype=1servicetype=1
+#EXTINF:-1,tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.cn/tv/CGTN俄语.png" group-title="央视",CGTN俄语
+http://[2409:8087:c00:21::2:32]:6610/040000001000/00000001000000060000000000000532/index.m3u8?servicetype=1servicetype=1
+#EXTINF:-1,tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://live.fanmingming.cn/tv/环球旅游.png" group-title="央视",环球旅游
+http://[2409:8087:c00:21::2:32]:6610/040000001000/00000001000000060000000000002255/index.m3u8?servicetype=1servicetype=1
 #EXTINF:-1,tvg-id="CCTV第一剧场" tvg-name="CCTV第一剧场" tvg-logo="https://epg.v1.mk/logo/CCTV第一剧场.png" group-title="央视数字",CCTV第一剧场
 http://[2409:8087:c00:21::2:32]:6610/040000001000/35100001000000060000000000000022/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="CCTV电视指南" tvg-name="CCTV电视指南" tvg-logo="https://epg.v1.mk/logo/CCTV电视指南.png" group-title="央视数字",CCTV电视指南
