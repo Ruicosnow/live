@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://epg.v1.mk/fy.xml,https://epg.v1.mk/fy.xml.gz,https://live.fanmingming.cn/e.xml,http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视V6",CCTV1
-http://[2409:8087:c00:21::2:37]:6610/040000001000/00000001000000060000000000000131/index.m3u8?servicetype=1servicetype=1
+http://[2409:8087:c00:21::2:37]:6610/040000001000/00000001000000060000000000000131/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视V6",CCTV1
 http://[2409:8087:c00:21::2:46]:6610/040000001000/35100001000000060000000000000104/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视V6",CCTV2
