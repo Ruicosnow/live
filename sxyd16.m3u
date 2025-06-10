@@ -40,11 +40,11 @@ http://[2409:8087:c00:21::2:46]:6610/040000001000/351000010000000600000000000001
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视V6",CCTV17
 http://[2409:8087:c00:21::2:46]:6610/040000001000/35100001000000060000000000000208/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.cn/tv/CCTV4欧洲.png" group-title="央视V6",CCTV4欧洲
-http://[2409:8087:c00:21::2:37]:6610/040000001000/00000001000000060000000000000525/index.m3u8?servicetype=1servicetype=1
+http://[2409:8087:c00:21::2:37]:6610/040000001000/00000001000000060000000000000525/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.cn/tv/CCTV4美洲.png" group-title="央视V6",CCTV4美洲
-http://[2409:8087:c00:21::2:37]:6610/040000001000/00000001000000060000000000000526/index.m3u8?servicetype=1servicetype=1
+http://[2409:8087:c00:21::2:37]:6610/040000001000/00000001000000060000000000000526/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="央视V6",CGTN
-http://[2409:8087:c00:21::2:37]:6610/040000001000/00000001000000060000000000000527/index.m3u8?servicetype=1servicetype=1
+http://[2409:8087:c00:21::2:37]:6610/040000001000/00000001000000060000000000000527/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="CCTV第一剧场" tvg-name="CCTV第一剧场" tvg-logo="https://epg.v1.mk/logo/CCTV第一剧场.png" group-title="央视数字V6",CCTV第一剧场
 http://[2409:8087:c00:21::2:46]:6610/040000001000/35100001000000060000000000000022/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="CCTV电视指南" tvg-name="CCTV电视指南" tvg-logo="https://epg.v1.mk/logo/CCTV电视指南.png" group-title="央视数字V6",CCTV电视指南
@@ -98,7 +98,7 @@ http://[2409:8087:c00:21::2:46]:6610/040000001000/351000010000000600000000000000
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="卫视V6",北京卫视
 http://[2409:8087:c00:21::2:46]:6610/040000001000/35100001000000060000000000000017/index.m3u8?servicetype=1 
 #EXTINF:-1,tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://epg.v1.mk/logo/北京卫视4K.png" group-title="卫视V6",北京卫视4K
-http://[2409:8087:c00:21::2:37]:6610/040000001000/00000001000000060000000000000549/index.m3u8?servicetype=1servicetype=1
+http://[2409:8087:c00:21::2:37]:6610/040000001000/00000001000000060000000000000549/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="卫视V6",东方卫视
 http://[2409:8087:c00:21::2:46]:6610/040000001000/35100001000000060000000000000077/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="卫视V6",浙江卫视
@@ -118,7 +118,7 @@ http://[2409:8087:c00:21::2:37]:6610/040000001000/000000010000000600000000000002
 #EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.v1.mk/logo/天津卫视.png" group-title="卫视V6",天津卫视
 http://[2409:8087:c00:21::2:46]:6610/040000001000/35100001000000060000000000000052/index.m3u8?servicetype=1 
 #EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="卫视V6",辽宁卫视
-http://[2409:8087:c00:21::2:37]:6610/040000001000/00000001000000060000000000000367/index.m3u8?servicetype=1servicetype=1
+http://[2409:8087:c00:21::2:37]:6610/040000001000/00000001000000060000000000000367/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="卫视V6",辽宁卫视
 http://[2409:8087:c00:21::2:46]:6610/040000001000/35100001000000060000000000000016/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.v1.mk/logo/吉林卫视.png" group-title="卫视V6",吉林卫视
