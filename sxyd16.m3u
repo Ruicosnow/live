@@ -445,34 +445,6 @@ http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226424/1.m3u8
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226239/1.m3u8
 #EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://epg.v1.mk/logo/重温经典.png" group-title="地方V4",重温经典
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226427/1.m3u8
-#EXTINF:-1,tvg-name="百变课堂" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/上海/BesTV.png" group-title="地方V4",百变课堂
-http://111.29.9.33:6610/000000001000/5000000011000288001/index.m3u8?
-#EXTINF:-1,tvg-name="宝宝动画" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/上海/BesTV.png" group-title="地方V4",宝宝动画
-http://111.29.9.33:6610/000000001000/5000000011000288002/index.m3u8?
-#EXTINF:-1,tvg-name="电竞天堂" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/上海/BesTV.png" group-title="地方V4",电竞天堂
-http://111.29.9.33:6610/000000001000/5000000011000288003/index.m3u8?
-#EXTINF:-1,tvg-name="谍战剧场" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/上海/BesTV.png" group-title="地方V4",谍战剧场
-http://111.29.9.33:6610/000000001000/5000000011000288004/index.m3u8?
-#EXTINF:-1,tvg-name="华语影院" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/上海/BesTV.png" group-title="地方V4",华语影院
-http://111.29.9.33:6610/000000001000/5000000011000288005/index.m3u8?
-#EXTINF:-1,tvg-name="健康养生" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/上海/BesTV.png" group-title="地方V4",健康养生
-http://111.29.9.33:6610/000000001000/5000000011000288006/index.m3u8?
-#EXTINF:-1,tvg-name="看天下精选" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/上海/BesTV.png" group-title="地方V4",看天下精选
-http://111.29.9.33:6610/000000001000/5000000011000288007/index.m3u8?
-#EXTINF:-1,tvg-name="青春动漫" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/上海/BesTV.png" group-title="地方V4",青春动漫
-http://111.29.9.33:6610/000000001000/5000000011000288008/index.m3u8?
-#EXTINF:-1,tvg-name="全球大片" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/上海/BesTV.png" group-title="地方V4",全球大片
-http://111.29.9.33:6610/000000001000/5000000011000288009/index.m3u8?
-#EXTINF:-1,tvg-name="热门剧场" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/上海/BesTV.png" group-title="地方V4",热门剧场
-http://111.29.9.33:6610/000000001000/5000000011000288010/index.m3u8?
-#EXTINF:-1,tvg-name="热门综艺" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/上海/BesTV.png" group-title="地方V4",热门综艺
-http://111.29.9.33:6610/000000001000/5000000011000288011/index.m3u8?
-#EXTINF:-1,tvg-name="戏曲精选" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/上海/BesTV.png" group-title="地方V4",戏曲精选
-http://111.29.9.33:6610/000000001000/5000000011000288012/index.m3u8?
-#EXTINF:-1,tvg-name="星光影院" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/上海/BesTV.png" group-title="地方V4",星光影院
-http://111.29.9.33:6610/000000001000/5000000011000288013/index.m3u8?
-#EXTINF:-1,tvg-name="纯享4K" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/数字/纯享4K.png" group-title="地方V4",纯享4K
-http://111.29.9.35:6410/000000001000/1000000004000011651/index.m3u8?
 #EXTINF:-1,tvg-name="欧美影院" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/数字/华数.png" group-title="地方V4",欧美影院
 http://gslbserv.itv.cmvideo.cn/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=7185203501769528108
 #EXTINF:-1,tvg-name="亚洲影院" tvg-logo="https://gitee.com/yunjinger/logo/raw/master/数字/华数.png" group-title="地方V4",亚洲影院
