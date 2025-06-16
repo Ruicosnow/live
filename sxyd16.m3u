@@ -188,17 +188,17 @@ http://[2409:8087:c00:21::2:46]:6610/040000001000/351000010000000600000000000001
 #EXTINF:-1,tvg-id="山西黄河" tvg-name="山西黄河" tvg-logo="https://epg.v1.mk/logo/山西黄河.png" group-title="地方V6",山西黄河
 http://[2409:8087:c00:21::2:46]:6610/040000001000/35100001000000060000000000000128/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视V4",CCTV1
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225655/1.m3u8
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视V4",CCTV1
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226032/1.m3u8
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视V4",CCTV1
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225655/1.m3u8
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视V4",CCTV2
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226217/1.m3u8
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视V4",CCTV2
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225652/1.m3u8
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="央视V4",CCTV3
-http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225885/1.m3u8
-#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="央视V4",CCTV3
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225967/1.m3u8
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="央视V4",CCTV3
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225885/1.m3u8
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="央视V4",CCTV3
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226235/1.m3u8
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="央视V4",CCTV4
@@ -285,6 +285,8 @@ http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225777/1.m3u8
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225856/1.m3u8
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="卫视V4",北京卫视
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225977/1.m3u8
+#EXTINF:-1,tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://epg.v1.mk/logo/北京纪实科教.png" group-title="卫视V4",北京纪实科教
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226430/1.m3u8
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="卫视V4",东方卫视
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225780/1.m3u8
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="卫视V4",东方卫视
