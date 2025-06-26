@@ -45,29 +45,29 @@ http://[2409:8087:c00:21::2:37]:6610/040000001000/000000010000000600000000000005
 http://[2409:8087:c00:21::2:37]:6610/040000001000/00000001000000060000000000000526/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="央视V6",CGTN
 http://[2409:8087:c00:21::2:37]:6610/040000001000/00000001000000060000000000000527/index.m3u8?servicetype=1
-#EXTINF:-1,tvg-id="CCTV第一剧场" tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV第一剧场.png" group-title="央视数字V6",CCTV第一剧场
+#EXTINF:-1,tvg-id="CCTV第一剧场" tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.cn/tv/第一剧场.png" group-title="央视数字V6",CCTV第一剧场
 http://[2409:8087:c00:21::2:46]:6610/040000001000/35100001000000060000000000000022/index.m3u8?servicetype=1
-#EXTINF:-1,tvg-id="CCTV电视指南" tvg-name="CCTV电视指南" tvg-logo="https://live.fanmingming.cn/tv/CCTV电视指南.png" group-title="央视数字V6",CCTV电视指南
+#EXTINF:-1,tvg-id="CCTV电视指南" tvg-name="CCTV电视指南" tvg-logo="https://live.fanmingming.cn/tv/电视指南.png" group-title="央视数字V6",CCTV电视指南
 http://[2409:8087:c00:21::2:46]:6610/040000001000/35100001000000060000000000000032/index.m3u8?servicetype=1
-#EXTINF:-1,tvg-id="CCTV世界地理" tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.cn/tv/CCTV世界地理.png" group-title="央视数字V6",CCTV世界地理
+#EXTINF:-1,tvg-id="CCTV世界地理" tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.cn/tv/世界地理.png" group-title="央视数字V6",CCTV世界地理
 http://[2409:8087:c00:21::2:46]:6610/040000001000/35100001000000060000000000000161/index.m3u8?servicetype=1
-#EXTINF:-1,tvg-id="CCTV兵器科技" tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.cn/tv/CCTV兵器科技.png" group-title="央视数字V6",CCTV兵器科技
+#EXTINF:-1,tvg-id="CCTV兵器科技" tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.cn/tv/兵器科技.png" group-title="央视数字V6",CCTV兵器科技
 http://[2409:8087:c00:21::2:46]:6610/040000001000/35100001000000060000000000000026/index.m3u8?servicetype=1
-#EXTINF:-1,tvg-id="CCTV风云剧场" tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云剧场.png" group-title="央视数字V6",CCTV风云剧场
+#EXTINF:-1,tvg-id="CCTV风云剧场" tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.cn/tv/风云剧场.png" group-title="央视数字V6",CCTV风云剧场
 http://[2409:8087:c00:21::2:46]:6610/040000001000/35100001000000060000000000000023/index.m3u8?servicetype=1
-#EXTINF:-1,tvg-id="CCTV风云音乐" tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云音乐.png" group-title="央视数字V6",CCTV风云音乐
+#EXTINF:-1,tvg-id="CCTV风云音乐" tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.cn/tv/风云音乐.png" group-title="央视数字V6",CCTV风云音乐
 http://[2409:8087:c00:21::2:46]:6610/040000001000/35100001000000060000000000000024/index.m3u8?servicetype=1
-#EXTINF:-1,tvg-id="CCTV风云足球" tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.cn/tv/CCTV风云足球.png" group-title="央视数字V6",CCTV风云足球
+#EXTINF:-1,tvg-id="CCTV风云足球" tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.cn/tv/风云足球.png" group-title="央视数字V6",CCTV风云足球
 http://[2409:8087:c00:21::2:46]:6610/040000001000/35100001000000060000000000000027/index.m3u8?servicetype=1
-#EXTINF:-1,tvg-id="CCTV怀旧剧场" tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV怀旧剧场.png" group-title="央视数字V6",CCTV怀旧剧场
+#EXTINF:-1,tvg-id="CCTV怀旧剧场" tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.cn/tv/怀旧剧场.png" group-title="央视数字V6",CCTV怀旧剧场
 http://[2409:8087:c00:21::2:46]:6610/040000001000/35100001000000060000000000000029/index.m3u8?servicetype=1
-#EXTINF:-1,tvg-id="CCTV女性时尚" tvg-name="CCTV女性时尚" tvg-logo="https://live.fanmingming.cn/tv/CCTV女性时尚.png" group-title="央视数字V6",CCTV女性时尚
+#EXTINF:-1,tvg-id="CCTV女性时尚" tvg-name="CCTV女性时尚" tvg-logo="https://live.fanmingming.cn/tv/女性时尚.png" group-title="央视数字V6",CCTV女性时尚
 http://[2409:8087:c00:21::2:46]:6610/040000001000/35100001000000060000000000000040/index.m3u8?servicetype=1
-#EXTINF:-1,tvg-id="CCTV央视台球" tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.cn/tv/CCTV央视台球.png" group-title="央视数字V6",CCTV央视台球
+#EXTINF:-1,tvg-id="CCTV央视台球" tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.cn/tv/央视台球.png" group-title="央视数字V6",CCTV央视台球
 http://[2409:8087:c00:21::2:46]:6610/040000001000/35100001000000060000000000000212/index.m3u8?servicetype=1
-#EXTINF:-1,tvg-id="CCTV高尔夫网球" tvg-name="CCTV高尔夫网球" tvg-logo="https://live.fanmingming.cn/tv/CCTV高尔夫网球.png" group-title="央视数字V6",CCTV高尔夫网球
+#EXTINF:-1,tvg-id="CCTV高尔夫网球" tvg-name="CCTV高尔夫网球" tvg-logo="https://live.fanmingming.cn/tv/高尔夫网球.png" group-title="央视数字V6",CCTV高尔夫网球
 http://[2409:8087:c00:21::2:46]:6610/040000001000/35100001000000060000000000000162/index.m3u8?servicetype=1
-#EXTINF:-1,tvg-id="CCTV央视文化精品" tvg-name="CCTV央视文化精品" tvg-logo="https://live.fanmingming.cn/tv/CCTV央视文化精品.png" group-title="央视数字V6",CCTV央视文化精品
+#EXTINF:-1,tvg-id="CCTV央视文化精品" tvg-name="CCTV央视文化精品" tvg-logo="https://live.fanmingming.cn/tv/央视文化精品.png" group-title="央视数字V6",CCTV央视文化精品
 http://[2409:8087:c00:21::2:46]:6610/040000001000/35100001000000060000000000000030/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png" group-title="央视数字V6",CCTV4K
 http://[2409:8087:c00:21::2:46]:6610/040000001000/35100001000000060000000000000189/index.m3u8?servicetype=1
