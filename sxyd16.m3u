@@ -467,12 +467,6 @@ http://gslbserv.itv.cmvideo.cn/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt
 http://gslbserv.itv.cmvideo.cn/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000002000032052
 #EXTINF:-1,tvg-name="求索科学" tvg-logo="https://gitee.com/yuer0304/logo/raw/master/数字/求索科学.png" group-title="地方V4",求索科学
 http://gslbserv.itv.cmvideo.cn/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000002000032344
-#EXTINF:-1,tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/yuer0304/logo/raw/master/CN/CHC影迷电影.png" group-title="地方V4",CHC影迷电影
-http://sh.lnott.top:880/dx101.m3u8
-#EXTINF:-1,tvg-name="CHC动作电影" tvg-logo="https://gitee.com/yuer0304/logo/raw/master/CN/CHC动作电影.png" group-title="地方V4",CHC动作电影
-http://sh.lnott.top:880/dx100.m3u8
-#EXTINF:-1,tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/yuer0304/logo/raw/master/CN/CHC家庭影院.png" group-title="地方V4",CHC家庭影院
-http://sh.lnott.top:880/dx93.m3u8
 #EXTINF:-1,tvg-id="祁县新闻" tvg-name="祁县新闻" tvg-logo="https://live.fanmingming.cn/tv/祁县新闻.png" group-title="地方V4",祁县新闻
 http://ggpagerl.live.sxmty.com/live/hls/b350dc1ac5da45c2b2233f6eb122ddf4/49d3766c7f204685a2a8f027b234c33d.m3u8?zshanxd
 #EXTINF:-1,tvg-id="精品大剧" tvg-name="精品大剧" tvg-logo="https://live.fanmingming.cn/tv/精品大剧.png" group-title="数字V4",精品大剧
