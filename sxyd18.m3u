@@ -451,6 +451,12 @@ http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226239/1.m3u8
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226341/1.m3u8
 #EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://11.112114.xyz/logo/重温经典.png" group-title="地方V4",重温经典
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226427/1.m3u8
+#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://11.112114.xyz/logo/CHC动作电影.png" group-title="地方V4",CHC动作电影
+http://8.138.250.123:8888/edge-cache02.live3.omd.sc96655.com/live/wqCHCdzdyH265_4000.m3u8
+#EXTINF:-1,tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://11.112114.xyz/logo/CHC影迷电影.png" group-title="地方V4",CHC影迷电影
+http://8.138.250.123:8888/edge-cache02.live3.omd.sc96655.com/live/lnwsCHC-HDH265_4000.m3u8
+#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://11.112114.xyz/logo/CHC家庭影院.png" group-title="地方V4",CHC家庭影院
+http://8.138.250.123:8888/edge-cache02.live3.omd.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8
 #EXTINF:-1,tvg-name="精品剧场" tvg-logo="https://gitee.com/yuer0304/logo/raw/master/数字/华数.png" group-title="地方V4",精品剧场
 http://gslbserv.itv.cmvideo.cn/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=8230197131234717902
 #EXTINF:-1,tvg-name="少儿动漫" tvg-logo="https://gitee.com/yuer0304/logo/raw/master/数字/华数.png" group-title="地方V4",少儿动漫
@@ -547,6 +553,7 @@ http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226166/1.m3u8
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225736/1.m3u8
 #EXTINF:-1,tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://11.112114.xyz/logo/哈哈炫动.png" group-title="数字V4",哈哈炫动
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226010/1.m3u8
+
 
 
 
