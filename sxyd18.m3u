@@ -363,6 +363,8 @@ http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226335/1.m3u8
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225996/1.m3u8
 #EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://11.112114.xyz/logo/深圳卫视.png" group-title="卫视V4",深圳卫视
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225739/1.m3u8
+#EXTINF:-1,tvg-id="深圳卫视4K" tvg-name="深圳卫视4K" tvg-logo="https://11.112114.xyz/logo/深圳卫视4K.png" group-title="卫视V4",深圳卫视4K
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226321/1.m3u8
 #EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://11.112114.xyz/logo/东南卫视.png" group-title="卫视V4",东南卫视
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225951/1.m3u8
 #EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://11.112114.xyz/logo/东南卫视.png" group-title="卫视V4",东南卫视
@@ -547,6 +549,7 @@ http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226166/1.m3u8
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225736/1.m3u8
 #EXTINF:-1,tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://11.112114.xyz/logo/哈哈炫动.png" group-title="数字V4",哈哈炫动
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226010/1.m3u8
+
 
 
 
