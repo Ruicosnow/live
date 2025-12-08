@@ -465,10 +465,16 @@ http://[2409:8087:1e01:23::11]:8112/000000001000/5000000010000017540/index.m3u8
 http://[2409:8087:1e01:23::11]:8112/000000001000/5000000010000018926/index.m3u8
 #EXTINF:-1,tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://11.112114.xyz/logo/上海新闻综合.png" group-title="卫视V4",上海新闻综合
 http://[2409:8087:1e01:23::11]:8112/000000001000/5000000011000031110/index.m3u8
-#EXTINF:-1,tvg-id="欢笑剧场4K" tvg-name="欢笑剧场4K" tvg-logo="https://11.112114.xyz/logo/欢笑剧场4K.png" group-title="卫视V4",欢笑剧场4K
-http://[2409:8087:1e01:23::11]:8112/000000001000/5000000007000010001/index.m3u8
-#EXTINF:-1,tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://11.112114.xyz/logo/纯享4K.png" group-title="卫视V4",纯享4K
-http://[2409:8087:1e01:23::11]:8112/000000000000/1000000004000011651/index.m3u8
+#EXTINF:-1,tvg-id="浙江教科影视" tvg-name="浙江教科影视" tvg-logo="https://11.112114.xyz/logo/浙江教科影视.png" group-title="卫视V4",浙江教科影视
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1,tvg-id="浙江经济生活" tvg-name="浙江经济生活" tvg-logo="https://11.112114.xyz/logo/浙江经济生活.png" group-title="卫视V4",浙江经济生活
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1,tvg-id="浙江新闻" tvg-name="浙江新闻" tvg-logo="https://11.112114.xyz/logo/浙江新闻.png" group-title="卫视V4",浙江新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1,tvg-id="浙江国际" tvg-name="浙江国际" tvg-logo="https://11.112114.xyz/logo/浙江国际.png" group-title="卫视V4",浙江国际
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1,tvg-id="钱江都市" tvg-name="钱江都市" tvg-logo="https://11.112114.xyz/logo/钱江都市.png" group-title="卫视V4",钱江都市
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1,tvg-id="山西影视" tvg-name="山西影视" tvg-logo="https://11.112114.xyz/logo/山西影视.png" group-title="地方V4",山西影视
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226225/1.m3u8
 #EXTINF:-1,tvg-id="山西经济与科技" tvg-name="山西经济与科技" tvg-logo="https://11.112114.xyz/logo/山西经济与科技.png" group-title="地方V4",山西经济与科技
@@ -579,6 +585,7 @@ http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226166/1.m3u8
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225736/1.m3u8
 #EXTINF:-1,tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://11.112114.xyz/logo/哈哈炫动.png" group-title="数字V4",哈哈炫动
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226010/1.m3u8
+
 
 
 
