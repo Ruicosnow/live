@@ -451,14 +451,6 @@ https://iptv.catvod.com/live.php?id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2%E5%8
 https://iptv.catvod.com/live.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1%E5%8F%B0
 #EXTINF:-1,tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://11.112114.xyz/logo/CHC影迷电影.png" group-title="卫视V4",CHC影迷电影
 https://iptv.catvod.com/live.php?id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1%E5%8F%B0
-#EXTINF:-1,tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://11.112114.xyz/logo/东方影视.png" group-title="卫视V4",东方影视
-http://[2409:8087:1e01:23::11]:8112/000000001000/5000000010000032212/index.m3u8
-#EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://11.112114.xyz/logo/五星体育.png" group-title="卫视V4",五星体育
-http://[2409:8087:1e01:23::11]:8112/000000001000/5000000010000017540/index.m3u8
-#EXTINF:-1,tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://11.112114.xyz/logo/上海都市.png" group-title="卫视V4",上海都市
-http://[2409:8087:1e01:23::11]:8112/000000001000/5000000010000018926/index.m3u8
-#EXTINF:-1,tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://11.112114.xyz/logo/上海新闻综合.png" group-title="卫视V4",上海新闻综合
-http://[2409:8087:1e01:23::11]:8112/000000001000/5000000011000031110/index.m3u8
 #EXTINF:-1,tvg-id="浙江教科影视" tvg-name="浙江教科影视" tvg-logo="https://11.112114.xyz/logo/浙江教科影视.png" group-title="卫视V4",浙江教科影视
 https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 #EXTINF:-1,tvg-id="浙江经济生活" tvg-name="浙江经济生活" tvg-logo="https://11.112114.xyz/logo/浙江经济生活.png" group-title="卫视V4",浙江经济生活
@@ -579,6 +571,7 @@ http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226166/1.m3u8
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225736/1.m3u8
 #EXTINF:-1,tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://11.112114.xyz/logo/哈哈炫动.png" group-title="数字V4",哈哈炫动
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226010/1.m3u8
+
 
 
 
