@@ -439,18 +439,6 @@ http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225760/1.m3u8
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226205/1.m3u8
 #EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://11.112114.xyz/logo/金鹰纪实.png" group-title="卫视V4",金鹰纪实
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225745/1.m3u8
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://11.112114.xyz/logo/凤凰中文.png" group-title="卫视V4",凤凰中文
-http://bxtv.3a.ink/api.php?id=fhzw
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://11.112114.xyz/logo/凤凰资讯.png" group-title="卫视V4",凤凰资讯
-http://bxtv.3a.ink/api.php?id=fhzx
-#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://11.112114.xyz/logo/凤凰香港.png" group-title="卫视V4",凤凰香港
-http://bxtv.3a.ink/api.php?id=fhhk
-#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://11.112114.xyz/logo/CHC家庭影院.png" group-title="卫视V4",CHC家庭影院
-https://iptv.catvod.com/live.php?id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2%E5%8F%B0
-#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://11.112114.xyz/logo/CHC动作电影.png" group-title="卫视V4",CHC动作电影
-https://iptv.catvod.com/live.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1%E5%8F%B0
-#EXTINF:-1,tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://11.112114.xyz/logo/CHC影迷电影.png" group-title="卫视V4",CHC影迷电影
-https://iptv.catvod.com/live.php?id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1%E5%8F%B0
 #EXTINF:-1,tvg-id="山西影视" tvg-name="山西影视" tvg-logo="https://11.112114.xyz/logo/山西影视.png" group-title="地方V4",山西影视
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226225/1.m3u8
 #EXTINF:-1,tvg-id="山西经济与科技" tvg-name="山西经济与科技" tvg-logo="https://11.112114.xyz/logo/山西经济与科技.png" group-title="地方V4",山西经济与科技
@@ -465,26 +453,6 @@ http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226239/1.m3u8
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226341/1.m3u8
 #EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://11.112114.xyz/logo/重温经典.png" group-title="地方V4",重温经典
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226427/1.m3u8
-#EXTINF:-1,tvg-name="精品剧场" tvg-logo="https://gitee.com/yuer0304/logo/raw/master/数字/华数.png" group-title="地方V4",精品剧场
-http://gslbserv.itv.cmvideo.cn/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=8230197131234717902
-#EXTINF:-1,tvg-name="少儿动漫" tvg-logo="https://gitee.com/yuer0304/logo/raw/master/数字/华数.png" group-title="地方V4",少儿动漫
-http://gslbserv.itv.cmvideo.cn/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=8145334647720731271
-#EXTINF:-1,tvg-name="风尚音乐" tvg-logo="https://gitee.com/yuer0304/logo/raw/master/数字/华数.png" group-title="地方V4",风尚音乐
-http://gslbserv.itv.cmvideo.cn/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=5529729098703832176
-#EXTINF:-1,tvg-name="欧美影院" tvg-logo="https://gitee.com/yuer0304/logo/raw/master/数字/华数.png" group-title="地方V4",欧美影院
-http://gslbserv.itv.cmvideo.cn/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=7185203501769528108
-#EXTINF:-1,tvg-name="亚洲影院" tvg-logo="https://gitee.com/yuer0304/logo/raw/master/数字/华数.png" group-title="地方V4",亚洲影院
-http://gslbserv.itv.cmvideo.cn/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=5841816227539527643
-#EXTINF:-1,tvg-name="探索纪实" tvg-logo="https://gitee.com/yuer0304/logo/raw/master/数字/华数.png" group-title="地方V4",探索纪实
-http://gslbserv.itv.cmvideo.cn/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=5359008697329269813
-#EXTINF:-1,tvg-name="求索生活" tvg-logo="https://gitee.com/yuer0304/logo/raw/master/数字/求索生活.png" group-title="地方V4",求索生活
-http://gslbserv.itv.cmvideo.cn/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000002000003382
-#EXTINF:-1,tvg-name="求索动物" tvg-logo="https://gitee.com/yuer0304/logo/raw/master/数字/求索动物.png" group-title="地方V4",求索动物
-http://gslbserv.itv.cmvideo.cn/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000002000010046
-#EXTINF:-1,tvg-name="求索纪录" tvg-logo="https://gitee.com/yuer0304/logo/raw/master/数字/求索记录.png" group-title="地方V4",求索纪录
-http://gslbserv.itv.cmvideo.cn/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000002000032052
-#EXTINF:-1,tvg-name="求索科学" tvg-logo="https://gitee.com/yuer0304/logo/raw/master/数字/求索科学.png" group-title="地方V4",求索科学
-http://gslbserv.itv.cmvideo.cn/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000002000032344
 #EXTINF:-1,tvg-id="祁县新闻" tvg-name="祁县新闻" tvg-logo="https://11.112114.xyz/logo/祁县新闻.png" group-title="地方V4",祁县新闻
 http://ggpagerl.live.sxmty.com/live/hls/b350dc1ac5da45c2b2233f6eb122ddf4/49d3766c7f204685a2a8f027b234c33d.m3u8?zshanxd
 #EXTINF:-1,tvg-id="精品大剧" tvg-name="精品大剧" tvg-logo="https://11.112114.xyz/logo/精品大剧.png" group-title="数字V4",精品大剧
@@ -561,6 +529,7 @@ http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226166/1.m3u8
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225736/1.m3u8
 #EXTINF:-1,tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://11.112114.xyz/logo/哈哈炫动.png" group-title="数字V4",哈哈炫动
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226010/1.m3u8
+
 
 
 
