@@ -67,7 +67,7 @@ http://[2409:8087:c00:21::2:46]:6610/040000001000/351000010000000600000000000000
 http://[2409:8087:c00:21::2:46]:6610/040000001000/35100001000000060000000000000212/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="CCTV高尔夫网球" tvg-name="CCTV高尔夫网球" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/高尔夫网球.png" group-title="央视数字V6",CCTV高尔夫网球
 http://[2409:8087:c00:21::2:46]:6610/040000001000/35100001000000060000000000000162/index.m3u8?servicetype=1
-#EXTINF:-1,tvg-id="CCTV央视文化精品" tvg-name="CCTV央视文化精品" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/央视文化精品.png" group-title="央视数字V6",CCTV央视文化精品
+#EXTINF:-1,tvg-id="CCTV央视文化精品" tvg-name="CCTV央视文化精品" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/文化精品.png" group-title="央视数字V6",CCTV央视文化精品
 http://[2409:8087:c00:21::2:46]:6610/040000001000/35100001000000060000000000000030/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4K.png" group-title="央视数字V6",CCTV4K
 http://[2409:8087:c00:21::2:46]:6610/040000001000/35100001000000060000000000000189/index.m3u8?servicetype=1
@@ -177,7 +177,7 @@ http://[2409:8087:c00:21::2:46]:6610/040000001000/351000010000000600000000000000
 http://[2409:8087:c00:21::2:46]:6610/040000001000/35100001000000060000000000000036/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="山西影视" tvg-name="山西影视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/山西影视.png" group-title="地方V6",山西影视
 http://[2409:8087:c00:21::2:46]:6610/040000001000/35100001000000060000000000000130/index.m3u8?servicetype=1
-#EXTINF:-1,tvg-id="山西经济与科技" tvg-name="山西经济与科技" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/山西经济与科技.png" group-title="地方V6",山西经济与科技
+#EXTINF:-1,tvg-id="山西经济与科技" tvg-name="山西经济与科技" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/山西经济.png" group-title="地方V6",山西经济与科技
 http://[2409:8087:c00:21::2:46]:6610/040000001000/35100001000000060000000000000129/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="山西社会与法治" tvg-name="山西社会与法治" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/山西社会与法治.png" group-title="地方V6",山西社会与法治
 http://[2409:8087:c00:21::2:46]:6610/040000001000/35100001000000060000000000000131/index.m3u8?servicetype=1
@@ -267,17 +267,17 @@ http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225877/1.m3u8
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225909/1.m3u8
 #EXTINF:-1,tvg-id="cgtn" tvg-name="cgtn" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/cgtn.png" group-title="央视V4",CGTN
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225774/1.m3u8
-#EXTINF:-1,tvg-id="cgtn" tvg-name="cgtn" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/cgtn.png" group-title="央视V4",CGTN
+#EXTINF:-1,tvg-id="cgtn" tvg-name="cgtn" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN.png" group-title="央视V4",CGTN
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225957/1.m3u8
-#EXTINF:-1,tvg-id="cgtn法语" tvg-name="cgtn法语" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/cgtn法语.png" group-title="央视V4",CGTN法语
+#EXTINF:-1,tvg-id="cgtn法语" tvg-name="cgtn法语" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN法语.png" group-title="央视V4",CGTN法语
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226023/1.m3u8
-#EXTINF:-1,tvg-id="cgtn西班牙语" tvg-name="cgtn西班牙语" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/cgtn西班牙语.png" group-title="央视V4",CGTN西班牙语
+#EXTINF:-1,tvg-id="cgtn西班牙语" tvg-name="cgtn西班牙语" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN西语.png" group-title="央视V4",CGTN西班牙语
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226026/1.m3u8
-#EXTINF:-1,tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN阿拉伯语.png" group-title="央视V4",CGTN阿拉伯语
+#EXTINF:-1,tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN阿语.png" group-title="央视V4",CGTN阿拉伯语
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226211/1.m3u8
 #EXTINF:-1,tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN俄语.png" group-title="央视V4",CGTN俄罗斯语
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226214/1.m3u8
-#EXTINF:-1,tvg-id="cgtn纪录" tvg-name="cgtn纪录" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/cgtn纪录.png" group-title="央视V4",CGTN纪录
+#EXTINF:-1,tvg-id="cgtn纪录" tvg-name="cgtn纪录" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN纪录.png" group-title="央视V4",CGTN纪录
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225777/1.m3u8
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="卫视V4",北京卫视
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225856/1.m3u8
@@ -489,7 +489,7 @@ http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225852/1.m3u8
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225861/1.m3u8
 #EXTINF:-1,tvg-id="精品萌宠" tvg-name="精品萌宠" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/精品萌宠.png" group-title="数字V4",精品萌宠
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225912/1.m3u8
-#EXTINF:-1,tvg-id="H睛彩中原" tvg-name="H睛彩中原" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/H睛彩中原.png" group-title="数字V4",睛彩青少
+#EXTINF:-1,tvg-id="H睛彩中原" tvg-name="H睛彩中原" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩中原.png" group-title="数字V4",睛彩青少
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225915/1.m3u8
 #EXTINF:-1,tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩篮球.png" group-title="数字V4",睛彩篮球
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225922/1.m3u8
@@ -529,6 +529,7 @@ http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226166/1.m3u8
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225736/1.m3u8
 #EXTINF:-1,tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/哈哈炫动.png" group-title="数字V4",哈哈炫动
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226010/1.m3u8
+
 
 
 
