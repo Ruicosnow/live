@@ -75,7 +75,7 @@ http://[2409:8087:c00:21::2:46]:6610/040000001000/351000010000000600000000000001
 http://[2409:8087:c00:21::2:46]:6610/040000001000/35100001000000060000000000000110/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="乐游" tvg-name="乐游" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/乐游.png" group-title="央视数字V6",乐游
 http://[2409:8087:c00:21::2:46]:6610/040000001000/35100001000000060000000000000106/index.m3u8?servicetype=1
-#EXTINF:-1,tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/茶频道.png" group-title="央视数字V6",茶频道
+#EXTINF:-1,tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/茶.png" group-title="央视数字V6",茶频道
 http://[2409:8087:c00:21::2:46]:6610/040000001000/35100001000000060000000000000043/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/快乐垂钓.png" group-title="央视数字V6",快乐垂钓
 http://[2409:8087:c00:21::2:46]:6610/040000001000/35100001000000060000000000000044/index.m3u8?servicetype=1
@@ -529,6 +529,7 @@ http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226166/1.m3u8
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225736/1.m3u8
 #EXTINF:-1,tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/哈哈炫动.png" group-title="数字V4",哈哈炫动
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226010/1.m3u8
+
 
 
 
